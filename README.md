@@ -1,6 +1,6 @@
 # Morning and Evening - Markdown Edition
 
-This project brings *"Morning and Evening"* by the renowned 19th-century British preacher Charles Spurgeon—widely regarded as the "Prince of Preachers"—to the digital age in an easy-to-use, markdown-optimized fo
+This project brings *"Morning and Evening"* by the renowned 19th-century British preacher Charles Spurgeon—widely regarded as the "Prince of Preachers"—to the digital age in an easy-to-use, markdown-optimized format. Based on Spurgeon's classic devotional, this version is designed to help you experience the timeless wisdom, comfort, and theological insight of *Morning and Evening* every day of the year, including leap years with February 29th.
 
 ## Project Features
 
