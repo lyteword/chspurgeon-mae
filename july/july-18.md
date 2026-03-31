@@ -1,3 +1,5 @@
+# July 18
+
 ## Morning
 
 “They shall go hindmost with their standards.” — Numbers 2:31

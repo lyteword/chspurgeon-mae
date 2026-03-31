@@ -1,3 +1,5 @@
+# June 5
+
 ## Morning
 
 “The Lord shut him in.” — Genesis 7:16

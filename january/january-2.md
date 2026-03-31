@@ -1,3 +1,5 @@
+# January 2
+
 ## Morning
 
 “Continue in prayer.” — Colossians 4:2

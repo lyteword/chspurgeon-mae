@@ -1,3 +1,5 @@
+# October 19
+
 ## Morning
 
 “Babes in Christ.” — 1 Corinthians 3:1

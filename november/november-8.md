@@ -1,3 +1,5 @@
+# November 8
+
 ## Morning
 
 “As ye have received Christ Jesus the Lord.” — Colossians 2:6

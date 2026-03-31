@@ -1,3 +1,5 @@
+# December 1
+
 ## Morning
 
 “Thou hast made summer and winter.” — Psalm 74:17

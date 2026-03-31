@@ -1,3 +1,5 @@
+# July 16
+
 ## Morning
 
 “They gathered manna every morning.” — Exodus 16:21

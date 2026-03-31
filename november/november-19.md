@@ -1,3 +1,5 @@
+# November 19
+
 ## Morning
 
 “Avoid foolish questions.” — Titus 3:9

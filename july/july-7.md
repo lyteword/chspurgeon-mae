@@ -1,3 +1,5 @@
+# July 7
+
 ## Morning
 
 “Brethren, pray for us.” — 1 Thessalonians 5:25

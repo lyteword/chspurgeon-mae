@@ -1,3 +1,5 @@
+# December 26
+
 ## Morning
 
 “The last Adam.” — 1 Corinthians 15:45

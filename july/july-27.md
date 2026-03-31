@@ -1,3 +1,5 @@
+# July 27
+
 ## Morning
 
 “Exceeding great and precious promises.” — 2 Peter 1:4

@@ -1,3 +1,5 @@
+# August 27
+
 ## Morning
 
 “How long will it be ere they believe me?” — Numbers 14:11

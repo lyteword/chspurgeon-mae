@@ -1,3 +1,5 @@
+# November 25
+
 ## Morning
 
 “To preach deliverance to the captives.” — Luke 4:18

@@ -1,3 +1,5 @@
+# August 2
+
 ## Morning
 
 “Who worketh all things after the counsel of his own will.” — Ephesians 1:11

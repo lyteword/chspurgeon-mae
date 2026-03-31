@@ -1,3 +1,5 @@
+# June 8
+
 ## Morning
 
 “There fell down many slain, because the war was of God.” — 1 Chronicles 5:22

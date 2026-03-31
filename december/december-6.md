@@ -1,3 +1,5 @@
+# December 6
+
 ## Morning
 
 “As is the heavenly, such are they also that are heavenly.” — 1 Corinthians 15:48

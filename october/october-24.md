@@ -1,3 +1,5 @@
+# October 24
+
 ## Morning
 
 “The trees of the Lord are full of sap.” — Psalm 104:16

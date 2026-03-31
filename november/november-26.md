@@ -1,3 +1,5 @@
+# November 26
+
 ## Morning
 
 “Whatsoever thy hand findeth to do, do it with thy might.” — Ecclesiastes 9:10

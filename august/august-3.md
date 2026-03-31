@@ -1,3 +1,5 @@
+# August 3
+
 ## Morning
 
 “The Lamb is the light thereof.” — Revelation 21:23

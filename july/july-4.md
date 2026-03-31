@@ -1,3 +1,5 @@
+# July 4
+
 ## Morning
 
 “Sanctify them through thy truth.” — John 17:17

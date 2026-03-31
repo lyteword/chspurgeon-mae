@@ -1,3 +1,5 @@
+# October 10
+
 ## Morning
 
 “Faultless before the presence of his glory.” — Jude 24

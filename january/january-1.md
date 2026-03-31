@@ -1,3 +1,5 @@
+# January 1
+
 ## Morning
 
 “They did eat of the fruit of the land of Canaan that year.” — Joshua 5:12

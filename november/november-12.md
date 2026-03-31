@@ -1,3 +1,5 @@
+# November 12
+
 ## Morning
 
 “The trial of your faith.” — 1 Peter 1:7

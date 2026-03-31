@@ -1,3 +1,5 @@
+# December 7
+
 ## Morning
 
 “Base things of the world hath God chosen.” — 1 Corinthians 1:28

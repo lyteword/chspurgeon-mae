@@ -1,3 +1,5 @@
+# August 18
+
 ## Morning
 
 “Strangers are come into the sanctuaries of the Lord’s house.” — Jeremiah 51:51

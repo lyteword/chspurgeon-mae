@@ -1,3 +1,5 @@
+# October 12
+
 ## Morning
 
 “I will meditate in thy precepts.” — Psalm 119:15

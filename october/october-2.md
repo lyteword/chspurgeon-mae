@@ -1,3 +1,5 @@
+# October 2
+
 ## Morning
 
 “The hope which is laid up for you in heaven.” — Colossians 1:5

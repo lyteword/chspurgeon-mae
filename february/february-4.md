@@ -1,3 +1,5 @@
+# February 4
+
 ## Morning
 
 “The love of the Lord.” — Hosea 3:1

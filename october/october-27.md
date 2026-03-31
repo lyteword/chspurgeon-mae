@@ -1,3 +1,5 @@
+# October 27
+
 ## Morning
 
 “It is a faithful saying.” — 2 Timothy 2:11

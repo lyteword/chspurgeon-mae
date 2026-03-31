@@ -1,3 +1,5 @@
+# July 26
+
 ## Morning
 
 “Giving all diligence, add to your faith virtue; and to virtue knowledge, 

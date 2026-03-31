@@ -1,3 +1,5 @@
+# August 8
+
 ## Morning
 
 “They weave the spider’s web.” — Isaiah 59:5

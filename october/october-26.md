@@ -1,3 +1,5 @@
+# October 26
+
 ## Morning
 
 “Ye looked for much, and, lo, it came to little; and when ye brought 

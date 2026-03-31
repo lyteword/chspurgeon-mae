@@ -1,3 +1,5 @@
+# July 17
+
 ## Morning
 
 “Knowing, brethren beloved, your election of God.” — 1 Thessalonians 1:4

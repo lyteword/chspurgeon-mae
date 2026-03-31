@@ -1,3 +1,5 @@
+# July 25
+
 ## Morning
 
 “He left his garment in her hand, and fled, and got him out.” — Genesis 39:12

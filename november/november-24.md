@@ -1,3 +1,5 @@
+# November 24
+
 ## Morning
 
 “The glorious Lord will be unto us a place of broad rivers and streams.” — Isaiah 33:21

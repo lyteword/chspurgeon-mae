@@ -1,3 +1,5 @@
+# September 6
+
 ## Morning
 
 “In the midst of a crooked and perverse nation, among whom ye shine 

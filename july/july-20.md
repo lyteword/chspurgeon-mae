@@ -1,3 +1,5 @@
+# July 20
+
 ## Morning
 
 “The earnest of our inheritance.” — Ephesians 1:14

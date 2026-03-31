@@ -1,3 +1,5 @@
+# July 8
+
 ## Morning
 
 “Tell me I pray thee wherein thy great strength lieth.” — Judges 16:6

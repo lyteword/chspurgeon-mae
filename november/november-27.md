@@ -1,3 +1,5 @@
+# November 27
+
 ## Morning
 
 “Joshua the high priest standing before the angel of the Lord.” — Zechariah 3:1

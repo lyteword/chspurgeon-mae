@@ -1,3 +1,5 @@
+# September 8
+
 ## Morning
 
 “From me is thy fruit found.” — Hosea 14:8

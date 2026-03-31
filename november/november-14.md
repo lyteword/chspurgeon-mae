@@ -1,3 +1,5 @@
+# November 14
+
 ## Morning
 
 “I will cut off them that worship and that swear by the Lord, and that 

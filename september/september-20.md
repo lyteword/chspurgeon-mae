@@ -1,3 +1,5 @@
+# September 20
+
 ## Morning
 
 “The sword of the Lord, and of Gideon.” — Judges 7:20

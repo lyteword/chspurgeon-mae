@@ -1,3 +1,5 @@
+# July 6
+
 ## Morning
 
 “Whoso hearkeneth unto me shall dwell safely, and shall be quiet from 

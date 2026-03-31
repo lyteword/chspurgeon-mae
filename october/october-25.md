@@ -1,3 +1,5 @@
+# October 25
+
 ## Morning
 
 “For the truth's sake, which dwelleth in us, and shall be with us forever.” — 2 John 2

@@ -1,3 +1,5 @@
+# November 22
+
 ## Morning
 
 “Israel served for a wife, and for a wife he kept sheep.” — Hosea 12:12

@@ -1,3 +1,5 @@
+# October 3
+
 ## Morning
 
 “Are they not all ministering spirits, sent forth to minister for them 

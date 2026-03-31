@@ -1,3 +1,5 @@
+# November 30
+
 ## Morning
 
 “And Amaziah said to the man of God, But what shall we do for the hundred 

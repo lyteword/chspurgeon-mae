@@ -1,3 +1,5 @@
+# July 19
+
 ## Morning
 
 “The Lord our God hath shewed us his glory.” — Deuteronomy 5:24

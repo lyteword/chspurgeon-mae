@@ -1,3 +1,5 @@
+# October 22
+
 ## Morning
 
 “I will love them freely.” — Hosea 14:4

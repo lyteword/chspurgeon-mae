@@ -1,3 +1,5 @@
+# July 24
+
 ## Morning
 
 “Stand still, and see the salvation of the Lord.” — Exodus 14:13

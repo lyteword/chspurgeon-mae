@@ -1,3 +1,5 @@
+# August 4
+
 ## Morning
 
 “The people that do know their God shall be strong.” — Daniel 11:32
