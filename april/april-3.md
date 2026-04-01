@@ -1,3 +1,11 @@
+---
+title: "April 3 | Read Morning and Evening Online"
+linkTitle: "April 3"
+description: >
+  Readings for April 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 19:16, Isaiah 53:6
+layout: single-section
+---
+
 # April 3
 
 ## Morning

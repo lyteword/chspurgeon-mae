@@ -1,3 +1,11 @@
+---
+title: "April 21 | Read Morning and Evening Online"
+linkTitle: "April 21"
+description: >
+  Readings for April 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Job 19:25, Romans 8:34
+layout: single-section
+---
+
 # April 21
 
 ## Morning

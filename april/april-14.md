@@ -1,3 +1,11 @@
+---
+title: "April 14 | Read Morning and Evening Online"
+linkTitle: "April 14"
+description: >
+  Readings for April 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 22:7, Isaiah 3:10
+layout: single-section
+---
+
 # April 14
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "April 30 | Read Morning and Evening Online"
+linkTitle: "April 30"
+description: >
+  Readings for April 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Numbers 14:2, Psalm 139:17
+layout: single-section
+---
+
 # April 30
 
 ## Morning

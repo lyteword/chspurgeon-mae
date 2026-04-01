@@ -1,3 +1,11 @@
+---
+title: "April 8 | Read Morning and Evening Online"
+linkTitle: "April 8"
+description: >
+  Readings for April 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 23:31, Psalm 23:4
+layout: single-section
+---
+
 # April 8
 
 ## Morning

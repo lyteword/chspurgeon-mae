@@ -1,3 +1,11 @@
+---
+title: "April 2 | Read Morning and Evening Online"
+linkTitle: "April 2"
+description: >
+  Readings for April 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 27:14, Isaiah 53:10
+layout: single-section
+---
+
 # April 2
 
 ## Morning

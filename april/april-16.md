@@ -1,3 +1,11 @@
+---
+title: "April 16 | Read Morning and Evening Online"
+linkTitle: "April 16"
+description: >
+  Readings for April 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Peter 1:19, Exodus 17:12
+layout: single-section
+---
+
 # April 16
 
 ## Morning

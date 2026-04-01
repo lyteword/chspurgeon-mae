@@ -1,3 +1,11 @@
+---
+title: "April 9 | Read Morning and Evening Online"
+linkTitle: "April 9"
+description: >
+  Readings for April 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 23:27, Psalm 18:35
+layout: single-section
+---
+
 # April 9
 
 ## Morning
