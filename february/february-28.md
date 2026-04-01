@@ -1,3 +1,11 @@
+---
+title: "February 28 | Read Morning and Evening Online"
+linkTitle: "February 28"
+description: >
+  Readings for February 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 62:5, 1 Kings 17:16
+layout: single-section
+---
+
 # February 28
 
 ## Morning

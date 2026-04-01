@@ -1,3 +1,11 @@
+---
+title: "February 6 | Read Morning and Evening Online"
+linkTitle: "February 6"
+description: >
+  Readings for February 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 6:18, James 5:16
+layout: single-section
+---
+
 # February 6
 
 ## Morning

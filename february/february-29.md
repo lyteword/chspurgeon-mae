@@ -1,3 +1,11 @@
+---
+title: "February 29 | Read Morning and Evening Online"
+linkTitle: "February 29"
+description: >
+  Readings for February 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 31:3, 1 Corinthians 2:12
+layout: single-section
+---
+
 # February 29
 
 ## Morning

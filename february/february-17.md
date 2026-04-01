@@ -1,3 +1,11 @@
+---
+title: "February 17 | Read Morning and Evening Online"
+linkTitle: "February 17"
+description: >
+  Readings for February 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 25:11, Ezekiel 35:10
+layout: single-section
+---
+
 # February 17
 
 ## Morning

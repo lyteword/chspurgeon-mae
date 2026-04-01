@@ -1,3 +1,11 @@
+---
+title: "February 5 | Read Morning and Evening Online"
+linkTitle: "February 5"
+description: >
+  Readings for February 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 4:14, Matthew 11:25
+layout: single-section
+---
+
 # February 5
 
 ## Morning

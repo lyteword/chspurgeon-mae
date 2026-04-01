@@ -1,3 +1,11 @@
+---
+title: "February 26 | Read Morning and Evening Online"
+linkTitle: "February 26"
+description: >
+  Readings for February 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jonah 2:9, Leviticus 13:13
+layout: single-section
+---
+
 # February 26
 
 ## Morning

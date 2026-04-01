@@ -1,3 +1,11 @@
+---
+title: "February 13 | Read Morning and Evening Online"
+linkTitle: "February 13"
+description: >
+  Readings for February 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 3:1,2, Romans 8:1
+layout: single-section
+---
+
 # February 13
 
 ## Morning

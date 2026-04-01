@@ -1,3 +1,11 @@
+---
+title: "February 14 | Read Morning and Evening Online"
+linkTitle: "February 14"
+description: >
+  Readings for February 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Kings 25:30, Luke 8:47
+layout: single-section
+---
+
 # February 14
 
 ## Morning

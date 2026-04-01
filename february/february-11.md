@@ -1,3 +1,11 @@
+---
+title: "February 11 | Read Morning and Evening Online"
+linkTitle: "February 11"
+description: >
+  Readings for February 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Acts 4:13, Revelation 2:4
+layout: single-section
+---
+
 # February 11
 
 ## Morning

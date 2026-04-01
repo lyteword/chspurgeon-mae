@@ -1,3 +1,11 @@
+---
+title: "February 23 | Read Morning and Evening Online"
+linkTitle: "February 23"
+description: >
+  Readings for February 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 13:5, Mark 10:21
+layout: single-section
+---
+
 # February 23
 
 ## Morning

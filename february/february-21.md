@@ -1,3 +1,11 @@
+---
+title: "February 21 | Read Morning and Evening Online"
+linkTitle: "February 21"
+description: >
+  Readings for February 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 13:5, Acts 8:30
+layout: single-section
+---
+
 # February 21
 
 ## Morning
