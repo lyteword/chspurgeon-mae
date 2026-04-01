@@ -1,3 +1,11 @@
+---
+title: "May 26 | Read Morning and Evening Online"
+linkTitle: "May 26"
+description: >
+  Readings for May 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 55:22, Acts 14:22
+layout: single-section
+---
+
 # May 26
 
 ## Morning

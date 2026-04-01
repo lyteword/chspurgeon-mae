@@ -1,3 +1,11 @@
+---
+title: "May 6 | Read Morning and Evening Online"
+linkTitle: "May 6"
+description: >
+  Readings for May 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 4:13, Job 14:14
+layout: single-section
+---
+
 # May 6
 
 ## Morning

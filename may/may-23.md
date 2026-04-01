@@ -1,3 +1,11 @@
+---
+title: "May 23 | Read Morning and Evening Online"
+linkTitle: "May 23"
+description: >
+  Readings for May 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 138:8, Isaiah 43:24
+layout: single-section
+---
+
 # May 23
 
 ## Morning

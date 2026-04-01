@@ -1,3 +1,11 @@
+---
+title: "May 19 | Read Morning and Evening Online"
+linkTitle: "May 19"
+description: >
+  Readings for May 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ecclesiastes 10:7, 1 Kings 19:4
+layout: single-section
+---
+
 # May 19
 
 ## Morning

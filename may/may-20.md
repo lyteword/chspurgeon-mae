@@ -1,3 +1,11 @@
+---
+title: "May 20 | Read Morning and Evening Online"
+linkTitle: "May 20"
+description: >
+  Readings for May 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 17:7, Hosea 11:4
+layout: single-section
+---
+
 # May 20
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "May 21 | Read Morning and Evening Online"
+linkTitle: "May 21"
+description: >
+  Readings for May 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Peter 2:3, Genesis 42:2
+layout: single-section
+---
+
 # May 21
 
 ## Morning
