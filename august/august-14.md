@@ -1,3 +1,11 @@
+---
+title: "August 14 | Read Morning and Evening Online"
+linkTitle: "August 14"
+description: >
+  Readings for August 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 92:4, Exodus 3:7
+layout: single-section
+---
+
 # August 14
 
 ## Morning

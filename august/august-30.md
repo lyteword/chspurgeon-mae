@@ -1,3 +1,11 @@
+---
+title: "August 30 | Read Morning and Evening Online"
+linkTitle: "August 30"
+description: >
+  Readings for August 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 27:14, Jeremiah 17:14
+layout: single-section
+---
+
 # August 30
 
 ## Morning

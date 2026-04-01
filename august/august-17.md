@@ -1,3 +1,11 @@
+---
+title: "August 17 | Read Morning and Evening Online"
+linkTitle: "August 17"
+description: >
+  Readings for August 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 52:8, John 11:4
+layout: single-section
+---
+
 # August 17
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "August 19 | Read Morning and Evening Online"
+linkTitle: "August 19"
+description: >
+  Readings for August 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Micah 5:4, Psalm 31:4
+layout: single-section
+---
+
 # August 19
 
 ## Morning

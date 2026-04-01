@@ -1,3 +1,11 @@
+---
+title: "August 6 | Read Morning and Evening Online"
+linkTitle: "August 6"
+description: >
+  Readings for August 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 21:11, Psalm 72:19
+layout: single-section
+---
+
 # August 6
 
 ## Morning

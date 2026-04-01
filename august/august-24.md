@@ -1,3 +1,11 @@
+---
+title: "August 24 | Read Morning and Evening Online"
+linkTitle: "August 24"
+description: >
+  Readings for August 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Micah 2:13, Exodus 22:6
+layout: single-section
+---
+
 # August 24
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "August 16 | Read Morning and Evening Online"
+linkTitle: "August 16"
+description: >
+  Readings for August 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 29:2, Romans 8:23
+layout: single-section
+---
+
 # August 16
 
 ## Morning
