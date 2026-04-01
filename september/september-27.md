@@ -1,3 +1,11 @@
+---
+title: "September 27 | Read Morning and Evening Online"
+linkTitle: "September 27"
+description: >
+  Readings for September 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Deuteronomy 33:29, Song of Solomon 5:4
+layout: single-section
+---
+
 # September 27
 
 ## Morning

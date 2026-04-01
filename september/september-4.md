@@ -1,3 +1,11 @@
+---
+title: "September 4 | Read Morning and Evening Online"
+linkTitle: "September 4"
+description: >
+  Readings for September 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Mark 1:41, Leviticus 19:36
+layout: single-section
+---
+
 # September 4
 
 ## Morning

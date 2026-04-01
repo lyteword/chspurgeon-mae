@@ -1,3 +1,11 @@
+---
+title: "September 18 | Read Morning and Evening Online"
+linkTitle: "September 18"
+description: >
+  Readings for September 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Galatians 5:25, John 10:27
+layout: single-section
+---
+
 # September 18
 
 ## Morning

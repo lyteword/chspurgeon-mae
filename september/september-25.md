@@ -1,3 +1,11 @@
+---
+title: "September 25 | Read Morning and Evening Online"
+linkTitle: "September 25"
+description: >
+  Readings for September 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 3:26, 1 Corinthians 1:30
+layout: single-section
+---
+
 # September 25
 
 ## Morning

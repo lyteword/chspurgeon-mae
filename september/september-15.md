@@ -1,3 +1,11 @@
+---
+title: "September 15 | Read Morning and Evening Online"
+linkTitle: "September 15"
+description: >
+  Readings for September 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 112:7, Psalm 148:14
+layout: single-section
+---
+
 # September 15
 
 ## Morning

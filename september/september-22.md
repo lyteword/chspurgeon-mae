@@ -1,3 +1,11 @@
+---
+title: "September 22 | Read Morning and Evening Online"
+linkTitle: "September 22"
+description: >
+  Readings for September 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 149:2, Psalm 61:2
+layout: single-section
+---
+
 # September 22
 
 ## Morning

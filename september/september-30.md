@@ -1,3 +1,11 @@
+---
+title: "September 30 | Read Morning and Evening Online"
+linkTitle: "September 30"
+description: >
+  Readings for September 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 66:2, Ecclesiastes 9:4
+layout: single-section
+---
+
 # September 30
 
 ## Morning

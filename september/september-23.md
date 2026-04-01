@@ -1,3 +1,11 @@
+---
+title: "September 23 | Read Morning and Evening Online"
+linkTitle: "September 23"
+description: >
+  Readings for September 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 1:6, Mark 9:23
+layout: single-section
+---
+
 # September 23
 
 ## Morning

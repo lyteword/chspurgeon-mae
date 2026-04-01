@@ -1,3 +1,11 @@
+---
+title: "September 3 | Read Morning and Evening Online"
+linkTitle: "September 3"
+description: >
+  Readings for September 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 1:7, Psalm 11:5
+layout: single-section
+---
+
 # September 3
 
 ## Morning
