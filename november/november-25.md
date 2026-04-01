@@ -1,3 +1,11 @@
+---
+title: "November 25 | Read Morning and Evening Online"
+linkTitle: "November 25"
+description: >
+  Readings for November 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 4:18, Romans 9:15
+layout: single-section
+---
+
 # November 25
 
 ## Morning

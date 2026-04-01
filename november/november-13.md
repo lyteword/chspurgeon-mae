@@ -1,3 +1,11 @@
+---
+title: "November 13 | Read Morning and Evening Online"
+linkTitle: "November 13"
+description: >
+  Readings for November 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 15:4, Luke 18:1
+layout: single-section
+---
+
 # November 13
 
 ## Morning

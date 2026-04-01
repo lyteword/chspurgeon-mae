@@ -1,3 +1,11 @@
+---
+title: "November 28 | Read Morning and Evening Online"
+linkTitle: "November 28"
+description: >
+  Readings for November 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 3 John 3, Esther 10:3
+layout: single-section
+---
+
 # November 28
 
 ## Morning

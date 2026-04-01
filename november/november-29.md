@@ -1,3 +1,11 @@
+---
+title: "November 29 | Read Morning and Evening Online"
+linkTitle: "November 29"
+description: >
+  Readings for November 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Leviticus 19:16, 17, Exodus 35:8
+layout: single-section
+---
+
 # November 29
 
 ## Morning

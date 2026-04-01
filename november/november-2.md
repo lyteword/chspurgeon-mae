@@ -1,3 +1,11 @@
+---
+title: "November 2 | Read Morning and Evening Online"
+linkTitle: "November 2"
+description: >
+  Readings for November 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Malachi 3:6, Psalm 119:53
+layout: single-section
+---
+
 # November 2
 
 ## Morning

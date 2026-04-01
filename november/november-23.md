@@ -1,3 +1,11 @@
+---
+title: "November 23 | Read Morning and Evening Online"
+linkTitle: "November 23"
+description: >
+  Readings for November 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 1:6, Isaiah 40:9
+layout: single-section
+---
+
 # November 23
 
 ## Morning

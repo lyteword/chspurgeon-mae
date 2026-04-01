@@ -1,3 +1,11 @@
+---
+title: "November 7 | Read Morning and Evening Online"
+linkTitle: "November 7"
+description: >
+  Readings for November 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 49:16, Acts 1:8
+layout: single-section
+---
+
 # November 7
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "November 18 | Read Morning and Evening Online"
+linkTitle: "November 18"
+description: >
+  Readings for November 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 4:12, Psalm 93:2
+layout: single-section
+---
+
 # November 18
 
 ## Morning
