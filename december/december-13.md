@@ -1,3 +1,11 @@
+---
+title: "December 13 | Read Morning and Evening Online"
+linkTitle: "December 13"
+description: >
+  Readings for December 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ezra 7:22, Isaiah 54:12
+layout: single-section
+---
+
 # December 13
 
 ## Morning

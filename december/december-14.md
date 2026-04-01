@@ -1,3 +1,11 @@
+---
+title: "December 14 | Read Morning and Evening Online"
+linkTitle: "December 14"
+description: >
+  Readings for December 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 84:7, Galatians 2:20
+layout: single-section
+---
+
 # December 14
 
 ## Morning

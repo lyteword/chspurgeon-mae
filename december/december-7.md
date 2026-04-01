@@ -1,3 +1,11 @@
+---
+title: "December 7 | Read Morning and Evening Online"
+linkTitle: "December 7"
+description: >
+  Readings for December 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 1:28, 1 Corinthians 9:22
+layout: single-section
+---
+
 # December 7
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "December 23 | Read Morning and Evening Online"
+linkTitle: "December 23"
+description: >
+  Readings for December 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 14:10, Psalm 74:16
+layout: single-section
+---
+
 # December 23
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "December 19 | Read Morning and Evening Online"
+linkTitle: "December 19"
+description: >
+  Readings for December 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Proverbs 16:33, Revelation 21:1
+layout: single-section
+---
+
 # December 19
 
 ## Morning

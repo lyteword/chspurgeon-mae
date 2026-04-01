@@ -1,3 +1,11 @@
+---
+title: "December 2 | Read Morning and Evening Online"
+linkTitle: "December 2"
+description: >
+  Readings for December 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 4:7, Ecclesiastes 1:14
+layout: single-section
+---
+
 # December 2
 
 ## Morning

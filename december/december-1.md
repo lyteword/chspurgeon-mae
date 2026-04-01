@@ -1,3 +1,11 @@
+---
+title: "December 1 | Read Morning and Evening Online"
+linkTitle: "December 1"
+description: >
+  Readings for December 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 74:17, Psalm 107:8
+layout: single-section
+---
+
 # December 1
 
 ## Morning

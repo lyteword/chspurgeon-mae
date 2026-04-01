@@ -1,3 +1,11 @@
+---
+title: "December 16 | Read Morning and Evening Online"
+linkTitle: "December 16"
+description: >
+  Readings for December 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 11:28, Isaiah 48:8
+layout: single-section
+---
+
 # December 16
 
 ## Morning

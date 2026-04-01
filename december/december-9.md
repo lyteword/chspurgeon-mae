@@ -1,3 +1,11 @@
+---
+title: "December 9 | Read Morning and Evening Online"
+linkTitle: "December 9"
+description: >
+  Readings for December 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 30:18, Isaiah 32:18
+layout: single-section
+---
+
 # December 9
 
 ## Morning
