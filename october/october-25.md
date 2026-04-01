@@ -1,3 +1,11 @@
+---
+title: "October 25 | Read Morning and Evening Online"
+linkTitle: "October 25"
+description: >
+  Readings for October 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 John 2, Ruth 2:3
+layout: single-section
+---
+
 # October 25
 
 ## Morning

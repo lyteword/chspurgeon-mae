@@ -1,3 +1,11 @@
+---
+title: "October 17 | Read Morning and Evening Online"
+linkTitle: "October 17"
+description: >
+  Readings for October 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Samuel 27:1, Isaiah 40:11
+layout: single-section
+---
+
 # October 17
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "October 6 | Read Morning and Evening Online"
+linkTitle: "October 6"
+description: >
+  Readings for October 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 4:14, Numbers 12:1
+layout: single-section
+---
+
 # October 6
 
 ## Morning

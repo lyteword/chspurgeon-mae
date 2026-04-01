@@ -1,3 +1,11 @@
+---
+title: "October 26 | Read Morning and Evening Online"
+linkTitle: "October 26"
+description: >
+  Readings for October 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Haggai 1:9, Ecclesiastes 1:7
+layout: single-section
+---
+
 # October 26
 
 ## Morning

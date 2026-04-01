@@ -1,3 +1,11 @@
+---
+title: "October 7 | Read Morning and Evening Online"
+linkTitle: "October 7"
+description: >
+  Readings for October 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Numbers 11:11, Isaiah 36:5
+layout: single-section
+---
+
 # October 7
 
 ## Morning

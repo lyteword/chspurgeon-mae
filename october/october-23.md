@@ -1,3 +1,11 @@
+---
+title: "October 23 | Read Morning and Evening Online"
+linkTitle: "October 23"
+description: >
+  Readings for October 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 6:67, Luke 22:46
+layout: single-section
+---
+
 # October 23
 
 ## Morning

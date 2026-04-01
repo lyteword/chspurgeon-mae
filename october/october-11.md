@@ -1,3 +1,11 @@
+---
+title: "October 11 | Read Morning and Evening Online"
+linkTitle: "October 11"
+description: >
+  Readings for October 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Lamentations 3:41, Romans 8:30
+layout: single-section
+---
+
 # October 11
 
 ## Morning

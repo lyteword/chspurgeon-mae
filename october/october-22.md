@@ -1,3 +1,11 @@
+---
+title: "October 22 | Read Morning and Evening Online"
+linkTitle: "October 22"
+description: >
+  Readings for October 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hosea 14:4, John 16:15
+layout: single-section
+---
+
 # October 22
 
 ## Morning

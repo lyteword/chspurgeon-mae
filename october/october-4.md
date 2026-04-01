@@ -1,3 +1,11 @@
+---
+title: "October 4 | Read Morning and Evening Online"
+linkTitle: "October 4"
+description: >
+  Readings for October 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Zechariah 14:7, 1 John 2:1
+layout: single-section
+---
+
 # October 4
 
 ## Morning

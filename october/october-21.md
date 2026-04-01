@@ -1,3 +1,11 @@
+---
+title: "October 21 | Read Morning and Evening Online"
+linkTitle: "October 21"
+description: >
+  Readings for October 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 5:14, Luke 24:38
+layout: single-section
+---
+
 # October 21
 
 ## Morning

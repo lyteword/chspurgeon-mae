@@ -1,3 +1,11 @@
+---
+title: "October 10 | Read Morning and Evening Online"
+linkTitle: "October 10"
+description: >
+  Readings for October 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jude 24, Jeremiah 15:21
+layout: single-section
+---
+
 # October 10
 
 ## Morning

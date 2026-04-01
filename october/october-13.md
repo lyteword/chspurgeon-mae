@@ -1,3 +1,11 @@
+---
+title: "October 13 | Read Morning and Evening Online"
+linkTitle: "October 13"
+description: >
+  Readings for October 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 7:10, Song of Solomon 8:6
+layout: single-section
+---
+
 # October 13
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "October 18 | Read Morning and Evening Online"
+linkTitle: "October 18"
+description: >
+  Readings for October 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 65:11, 1 Samuel 15:22
+layout: single-section
+---
+
 # October 18
 
 ## Morning

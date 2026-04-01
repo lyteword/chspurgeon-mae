@@ -1,3 +1,11 @@
+---
+title: "October 15 | Read Morning and Evening Online"
+linkTitle: "October 15"
+description: >
+  Readings for October 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Malachi 3:2, Exodus 34:20
+layout: single-section
+---
+
 # October 15
 
 ## Morning
