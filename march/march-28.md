@@ -1,3 +1,11 @@
+---
+title: "March 28 | Read Morning and Evening Online"
+linkTitle: "March 28"
+description: >
+  Readings for March 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 3:19, Ezekiel 20:41
+layout: single-section
+---
+
 # March 28
 
 ## Morning

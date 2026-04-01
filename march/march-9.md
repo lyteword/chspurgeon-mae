@@ -1,3 +1,11 @@
+---
+title: "March 9 | Read Morning and Evening Online"
+linkTitle: "March 9"
+description: >
+  Readings for March 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 5:16, John 15:4
+layout: single-section
+---
+
 # March 9
 
 ## Morning

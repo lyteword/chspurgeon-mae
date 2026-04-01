@@ -1,3 +1,11 @@
+---
+title: "March 2 | Read Morning and Evening Online"
+linkTitle: "March 2"
+description: >
+  Readings for March 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Samuel 13:20, Ephesians 3:8
+layout: single-section
+---
+
 # March 2
 
 ## Morning

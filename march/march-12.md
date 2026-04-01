@@ -1,3 +1,11 @@
+---
+title: "March 12 | Read Morning and Evening Online"
+linkTitle: "March 12"
+description: >
+  Readings for March 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 5:43, 1 Samuel 30:13
+layout: single-section
+---
+
 # March 12
 
 ## Morning

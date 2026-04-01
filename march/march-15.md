@@ -1,3 +1,11 @@
+---
+title: "March 15 | Read Morning and Evening Online"
+linkTitle: "March 15"
+description: >
+  Readings for March 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Timothy 2:1, 2 Chronicles 31:21
+layout: single-section
+---
+
 # March 15
 
 ## Morning

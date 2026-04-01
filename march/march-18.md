@@ -1,3 +1,11 @@
+---
+title: "March 18 | Read Morning and Evening Online"
+linkTitle: "March 18"
+description: >
+  Readings for March 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Galatians 3:26, John 15:9
+layout: single-section
+---
+
 # March 18
 
 ## Morning

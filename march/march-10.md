@@ -1,3 +1,11 @@
+---
+title: "March 10 | Read Morning and Evening Online"
+linkTitle: "March 10"
+description: >
+  Readings for March 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 30:6, Job 14:1
+layout: single-section
+---
+
 # March 10
 
 ## Morning

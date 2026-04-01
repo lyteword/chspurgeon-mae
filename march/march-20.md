@@ -1,3 +1,11 @@
+---
+title: "March 20 | Read Morning and Evening Online"
+linkTitle: "March 20"
+description: >
+  Readings for March 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 2:8, Ephesians 5:25
+layout: single-section
+---
+
 # March 20
 
 ## Morning
