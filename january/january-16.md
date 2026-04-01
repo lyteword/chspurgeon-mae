@@ -1,3 +1,11 @@
+---
+title: "January 16 | Read Morning and Evening Online"
+linkTitle: "January 16"
+description: >
+  Readings for January 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 41:14, Daniel 9:26
+layout: single-section
+---
+
 # January 16
 
 ## Morning

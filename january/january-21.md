@@ -1,3 +1,11 @@
+---
+title: "January 21 | Read Morning and Evening Online"
+linkTitle: "January 21"
+description: >
+  Readings for January 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 11:26, Judges 15:18
+layout: single-section
+---
+
 # January 21
 
 ## Morning

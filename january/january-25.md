@@ -1,3 +1,11 @@
+---
+title: "January 25 | Read Morning and Evening Online"
+linkTitle: "January 25"
+description: >
+  Readings for January 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 63:7, Romans 3:31
+layout: single-section
+---
+
 # January 25
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "January 24 | Read Morning and Evening Online"
+linkTitle: "January 24"
+description: >
+  Readings for January 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 91:3, Luke 10:40
+layout: single-section
+---
+
 # January 24
 
 ## Morning

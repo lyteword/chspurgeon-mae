@@ -1,3 +1,11 @@
+---
+title: "January 7 | Read Morning and Evening Online"
+linkTitle: "January 7"
+description: >
+  Readings for January 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Philippians 1:21, Song of Solomon 4:12
+layout: single-section
+---
+
 # January 7
 
 ## Morning

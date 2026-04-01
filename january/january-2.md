@@ -1,3 +1,11 @@
+---
+title: "January 2 | Read Morning and Evening Online"
+linkTitle: "January 2"
+description: >
+  Readings for January 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 4:2, Isaiah 41:1
+layout: single-section
+---
+
 # January 2
 
 ## Morning

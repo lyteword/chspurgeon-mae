@@ -1,3 +1,11 @@
+---
+title: "January 9 | Read Morning and Evening Online"
+linkTitle: "January 9"
+description: >
+  Readings for January 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 31:33, Psalm 100:2
+layout: single-section
+---
+
 # January 9
 
 ## Morning

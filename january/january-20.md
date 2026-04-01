@@ -1,3 +1,11 @@
+---
+title: "January 20 | Read Morning and Evening Online"
+linkTitle: "January 20"
+description: >
+  Readings for January 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 4:2, Psalm 119:37
+layout: single-section
+---
+
 # January 20
 
 ## Morning

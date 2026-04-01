@@ -1,3 +1,11 @@
+---
+title: "January 26 | Read Morning and Evening Online"
+linkTitle: "January 26"
+description: >
+  Readings for January 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 6:26, Luke 2:18
+layout: single-section
+---
+
 # January 26
 
 ## Morning

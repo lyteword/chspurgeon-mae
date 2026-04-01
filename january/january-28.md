@@ -1,3 +1,11 @@
+---
+title: "January 28 | Read Morning and Evening Online"
+linkTitle: "January 28"
+description: >
+  Readings for January 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 1:28, Luke 2:20
+layout: single-section
+---
+
 # January 28
 
 ## Morning

@@ -1,3 +1,11 @@
+---
+title: "January 14 | Read Morning and Evening Online"
+linkTitle: "January 14"
+description: >
+  Readings for January 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 63:1, Matthew 14:30
+layout: single-section
+---
+
 # January 14
 
 ## Morning
