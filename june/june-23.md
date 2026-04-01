@@ -1,3 +1,11 @@
+---
+title: "June 23 | Read Morning and Evening Online"
+linkTitle: "June 23"
+description: >
+  Readings for June 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hosea 7:8, Romans 8:23
+layout: single-section
+---
+
 # June 23
 
 ## Morning

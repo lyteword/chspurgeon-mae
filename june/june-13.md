@@ -1,3 +1,11 @@
+---
+title: "June 13 | Read Morning and Evening Online"
+linkTitle: "June 13"
+description: >
+  Readings for June 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Revelation 22:17, Proverbs 30:8
+layout: single-section
+---
+
 # June 13
 
 ## Morning

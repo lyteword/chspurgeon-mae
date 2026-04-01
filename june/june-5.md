@@ -1,3 +1,11 @@
+---
+title: "June 5 | Read Morning and Evening Online"
+linkTitle: "June 5"
+description: >
+  Readings for June 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 7:16, 1 John 4:8
+layout: single-section
+---
+
 # June 5
 
 ## Morning

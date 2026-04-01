@@ -1,3 +1,11 @@
+---
+title: "June 28 | Read Morning and Evening Online"
+linkTitle: "June 28"
+description: >
+  Readings for June 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 12:2, Exodus 7:12
+layout: single-section
+---
+
 # June 28
 
 ## Morning

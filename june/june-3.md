@@ -1,3 +1,11 @@
+---
+title: "June 3 | Read Morning and Evening Online"
+linkTitle: "June 3"
+description: >
+  Readings for June 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Chronicles 4:23, Philippians 2:8
+layout: single-section
+---
+
 # June 3
 
 ## Morning
