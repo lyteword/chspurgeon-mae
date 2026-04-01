@@ -1,3 +1,11 @@
+---
+title: "July 7 | Read Morning and Evening Online"
+linkTitle: "July 7"
+description: >
+  Readings for July 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Thessalonians 5:25, Ezekiel 16:6
+layout: single-section
+---
+
 # July 7
 
 ## Morning

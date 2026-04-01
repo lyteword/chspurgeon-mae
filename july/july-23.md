@@ -1,3 +1,11 @@
+---
+title: "July 23 | Read Morning and Evening Online"
+linkTitle: "July 23"
+description: >
+  Readings for July 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Obadiah 1:11, 1 John 1:7
+layout: single-section
+---
+
 # July 23
 
 ## Morning

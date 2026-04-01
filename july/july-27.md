@@ -1,3 +1,11 @@
+---
+title: "July 27 | Read Morning and Evening Online"
+linkTitle: "July 27"
+description: >
+  Readings for July 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Peter 1:4, Romans 8:33
+layout: single-section
+---
+
 # July 27
 
 ## Morning

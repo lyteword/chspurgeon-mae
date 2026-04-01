@@ -1,3 +1,11 @@
+---
+title: "July 31 | Read Morning and Evening Online"
+linkTitle: "July 31"
+description: >
+  Readings for July 31 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 17:23, 1 Chronicles 9:33
+layout: single-section
+---
+
 # July 31
 
 ## Morning

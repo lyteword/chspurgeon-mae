@@ -1,3 +1,11 @@
+---
+title: "July 28 | Read Morning and Evening Online"
+linkTitle: "July 28"
+description: >
+  Readings for July 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 73:22, Acts 10:38
+layout: single-section
+---
+
 # July 28
 
 ## Morning

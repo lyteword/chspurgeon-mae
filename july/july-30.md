@@ -1,3 +1,11 @@
+---
+title: "July 30 | Read Morning and Evening Online"
+linkTitle: "July 30"
+description: >
+  Readings for July 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Mark 14:72, John 6:37
+layout: single-section
+---
+
 # July 30
 
 ## Morning

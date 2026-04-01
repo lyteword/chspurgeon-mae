@@ -1,3 +1,11 @@
+---
+title: "July 8 | Read Morning and Evening Online"
+linkTitle: "July 8"
+description: >
+  Readings for July 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Judges 16:6, Psalm 25:5
+layout: single-section
+---
+
 # July 8
 
 ## Morning

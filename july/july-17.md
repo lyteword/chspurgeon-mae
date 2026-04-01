@@ -1,3 +1,11 @@
+---
+title: "July 17 | Read Morning and Evening Online"
+linkTitle: "July 17"
+description: >
+  Readings for July 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Thessalonians 1:4, 1 Kings 18:40
+layout: single-section
+---
+
 # July 17
 
 ## Morning

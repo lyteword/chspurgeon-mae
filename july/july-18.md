@@ -1,3 +1,11 @@
+---
+title: "July 18 | Read Morning and Evening Online"
+linkTitle: "July 18"
+description: >
+  Readings for July 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Numbers 2:31, Joel 2:8
+layout: single-section
+---
+
 # July 18
 
 ## Morning

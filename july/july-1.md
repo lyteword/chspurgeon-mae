@@ -1,3 +1,11 @@
+---
+title: "July 1 | Read Morning and Evening Online"
+linkTitle: "July 1"
+description: >
+  Readings for July 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Zechariah 14:8, Genesis 3:8
+layout: single-section
+---
+
 # July 1
 
 ## Morning

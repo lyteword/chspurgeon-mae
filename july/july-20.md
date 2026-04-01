@@ -1,3 +1,11 @@
+---
+title: "July 20 | Read Morning and Evening Online"
+linkTitle: "July 20"
+description: >
+  Readings for July 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 1:14, Jeremiah 2:18
+layout: single-section
+---
+
 # July 20
 
 ## Morning
