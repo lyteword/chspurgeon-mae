@@ -10,7 +10,7 @@ layout: single-section
 
 ## Morning
 
-“Friend, go up higher.” — Luke 14:10
+> “Friend, go up higher.” &mdash; Luke 14:10
 
 When first the life of grace begins in the soul, we do indeed draw near to God, but it is with great fear and trembling. The soul conscious of guilt, and humbled thereby, is overawed with the solemnity of its position; it is cast to the earth by a sense of the grandeur of Jehovah, in whose presence it stands. With unfeigned bashfulness it takes the lowest room.
 
@@ -19,12 +19,11 @@ But, in after life, as the Christian grows in grace, although he will never forg
 
 ## Evening
 
-“The night also is thine.” — Psalm 74:16
+> “The night also is thine.” &mdash; Psalm 74:16
 
 Yes, Lord, thou dost not abdicate thy throne when the sun goeth down, nor dost thou leave the world all through these long wintry nights to be the prey of evil; thine eyes watch us as the stars, and thine arms surround us as the zodiac belts the sky. The dews of kindly sleep and all the influences of the moon are in thy hand, and the alarms and solemnities of night are equally with thee. This is very sweet to me when watching through the midnight hours, or tossing to and fro in anguish. There are precious fruits put forth by the moon as well as by the sun: may my Lord make me to be a favoured partaker in them.
 
 The night of affliction is as much under the arrangement and control of the Lord of Love as the bright summer days when all is bliss. Jesus is in the tempest. His love wraps the night about itself as a mantle, but to the eye of faith the sable robe is scarce a disguise. From the first watch of the night even unto the break of day the eternal Watcher observes his saints, and overrules the shades and dews of midnight for his people’s highest good. We believe in no rival deities of good and evil contending for the mastery, but we hear the voice of Jehovah saying, “I create light and I create darkness; I, the Lord, do all these things.”
 
 Gloomy seasons of religious indifference and social sin are not exempted from the divine purpose. When the altars of truth are defiled, and the ways of God forsaken, the Lord’s servants weep with bitter sorrow, but they may not despair, for the darkest eras are governed by the Lord, and shall come to their end at his bidding. What may seem defeat to us may be victory to him.
-
 
