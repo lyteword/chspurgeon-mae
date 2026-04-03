@@ -4,6 +4,7 @@ linkTitle: "October 5"
 description: >
   Readings for October 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Kings 19:8, Mark 16:16
 layout: single-section
+weight: 5
 ---
 
 # October 5

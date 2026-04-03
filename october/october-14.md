@@ -4,6 +4,7 @@ linkTitle: "October 14"
 description: >
   Readings for October 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Philippians 3:8, Romans 12:2
 layout: single-section
+weight: 14
 ---
 
 # October 14

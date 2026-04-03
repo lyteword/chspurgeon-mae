@@ -4,6 +4,7 @@ linkTitle: "October 2"
 description: >
   Readings for October 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 1:5, Daniel 10:11
 layout: single-section
+weight: 2
 ---
 
 # October 2

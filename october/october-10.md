@@ -4,6 +4,7 @@ linkTitle: "October 10"
 description: >
   Readings for October 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jude 24, Jeremiah 15:21
 layout: single-section
+weight: 10
 ---
 
 # October 10

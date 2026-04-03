@@ -4,6 +4,7 @@ linkTitle: "October 12"
 description: >
   Readings for October 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 119:15, John 14:26
 layout: single-section
+weight: 12
 ---
 
 # October 12

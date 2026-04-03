@@ -4,6 +4,7 @@ linkTitle: "October 30"
 description: >
   Readings for October 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 9:1, Song of Solomon 8:13
 layout: single-section
+weight: 30
 ---
 
 # October 30

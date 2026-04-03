@@ -4,6 +4,7 @@ linkTitle: "October 27"
 description: >
   Readings for October 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Timothy 2:11, Isaiah 64:6
 layout: single-section
+weight: 27
 ---
 
 # October 27

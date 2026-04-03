@@ -4,6 +4,7 @@ linkTitle: "October 16"
 description: >
   Readings for October 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 21:12, Psalm 36:9
 layout: single-section
+weight: 16
 ---
 
 # October 16

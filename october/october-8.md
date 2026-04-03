@@ -4,6 +4,7 @@ linkTitle: "October 8"
 description: >
   Readings for October 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 5:4, Jude 20
 layout: single-section
+weight: 8
 ---
 
 # October 8

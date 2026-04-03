@@ -4,6 +4,7 @@ linkTitle: "October 9"
 description: >
   Readings for October 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jude 24, Matthew 15:23
 layout: single-section
+weight: 9
 ---
 
 # October 9

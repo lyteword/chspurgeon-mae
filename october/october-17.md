@@ -4,6 +4,7 @@ linkTitle: "October 17"
 description: >
   Readings for October 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Samuel 27:1, Isaiah 40:11
 layout: single-section
+weight: 17
 ---
 
 # October 17
