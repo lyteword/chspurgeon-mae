@@ -4,6 +4,7 @@ linkTitle: "June 11"
 description: >
   Readings for June 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 4:19, Psalm 76:3
 layout: single-section
+weight: 11
 ---
 
 # June 11

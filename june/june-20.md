@@ -4,6 +4,7 @@ linkTitle: "June 20"
 description: >
   Readings for June 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Amos 9:9, Mark 1:18
 layout: single-section
+weight: 20
 ---
 
 # June 20

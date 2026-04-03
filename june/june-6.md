@@ -4,6 +4,7 @@ linkTitle: "June 6"
 description: >
   Readings for June 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Job 40:4, 2 Corinthians 11:22
 layout: single-section
+weight: 6
 ---
 
 # June 6

@@ -4,6 +4,7 @@ linkTitle: "June 15"
 description: >
   Readings for June 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 21:6, Revelation 3:7
 layout: single-section
+weight: 15
 ---
 
 # June 15

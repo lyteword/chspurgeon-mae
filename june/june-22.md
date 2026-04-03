@@ -4,6 +4,7 @@ linkTitle: "June 22"
 description: >
   Readings for June 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Zechariah 6:13, Hebrews 12:27
 layout: single-section
+weight: 22
 ---
 
 # June 22

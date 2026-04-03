@@ -4,6 +4,7 @@ linkTitle: "June 1"
 description: >
   Readings for June 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 1:5, Isaiah 51:3
 layout: single-section
+weight: 1
 ---
 
 # June 1

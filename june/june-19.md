@@ -4,6 +4,7 @@ linkTitle: "June 19"
 description: >
   Readings for June 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Acts 2:4, Song of Solomon 2:16, 17
 layout: single-section
+weight: 19
 ---
 
 # June 19

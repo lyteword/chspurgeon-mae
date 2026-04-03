@@ -4,6 +4,7 @@ linkTitle: "June 2"
 description: >
   Readings for June 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Galatians 5:17, Matthew 19:16
 layout: single-section
+weight: 2
 ---
 
 # June 2

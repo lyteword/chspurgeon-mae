@@ -4,6 +4,7 @@ linkTitle: "June 14"
 description: >
   Readings for June 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 37:4, Daniel 9:8
 layout: single-section
+weight: 14
 ---
 
 # June 14
