@@ -4,6 +4,7 @@ linkTitle: "September 12"
 description: >
   Readings for September 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Nahum 1:2, Psalm 101:1
 layout: single-section
+weight: 12
 ---
 
 # September 12

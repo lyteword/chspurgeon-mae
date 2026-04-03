@@ -4,6 +4,7 @@ linkTitle: "September 19"
 description: >
   Readings for September 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Galatians 5:1, 1 Samuel 1:27
 layout: single-section
+weight: 19
 ---
 
 # September 19

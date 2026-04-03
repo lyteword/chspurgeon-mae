@@ -4,6 +4,7 @@ linkTitle: "September 20"
 description: >
   Readings for September 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Judges 7:20, Ecclesiastes 11:6
 layout: single-section
+weight: 20
 ---
 
 # September 20

@@ -4,6 +4,7 @@ linkTitle: "September 21"
 description: >
   Readings for September 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 32:41, Psalm 26:9
 layout: single-section
+weight: 21
 ---
 
 # September 21

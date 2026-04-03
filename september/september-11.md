@@ -4,6 +4,7 @@ linkTitle: "September 11"
 description: >
   Readings for September 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 6:17, Psalms 5:8
 layout: single-section
+weight: 11
 ---
 
 # September 11

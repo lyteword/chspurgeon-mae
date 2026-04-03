@@ -4,6 +4,7 @@ linkTitle: "September 29"
 description: >
   Readings for September 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Leviticus 13:13, Song of Solomon 3:4
 layout: single-section
+weight: 29
 ---
 
 # September 29

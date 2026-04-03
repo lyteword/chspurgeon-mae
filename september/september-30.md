@@ -4,6 +4,7 @@ linkTitle: "September 30"
 description: >
   Readings for September 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 66:2, Ecclesiastes 9:4
 layout: single-section
+weight: 30
 ---
 
 # September 30

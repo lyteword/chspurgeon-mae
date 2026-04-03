@@ -4,6 +4,7 @@ linkTitle: "September 9"
 description: >
   Readings for September 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 33:3, Revelation 4:4
 layout: single-section
+weight: 9
 ---
 
 # September 9

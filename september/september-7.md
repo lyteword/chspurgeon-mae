@@ -4,6 +4,7 @@ linkTitle: "September 7"
 description: >
   Readings for September 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Mark 2:4, Jeremiah 49:23
 layout: single-section
+weight: 7
 ---
 
 # September 7

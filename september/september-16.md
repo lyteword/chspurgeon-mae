@@ -4,6 +4,7 @@ linkTitle: "September 16"
 description: >
   Readings for September 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Peter 1:4, Job 7:12
 layout: single-section
+weight: 16
 ---
 
 # September 16

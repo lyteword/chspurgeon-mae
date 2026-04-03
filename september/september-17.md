@@ -4,6 +4,7 @@ linkTitle: "September 17"
 description: >
   Readings for September 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Mark 9:19, Deuteronomy 1:38
 layout: single-section
+weight: 17
 ---
 
 # September 17
