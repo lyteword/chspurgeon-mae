@@ -4,6 +4,7 @@ linkTitle: "January 15"
 description: >
   Readings for January 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Samuel 7:25, Psalm 109:4
 layout: single-section
+weight: 15
 ---
 
 # January 15

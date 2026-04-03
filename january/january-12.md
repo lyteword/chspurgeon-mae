@@ -4,6 +4,7 @@ linkTitle: "January 12"
 description: >
   Readings for January 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 3:23, Job 36:2
 layout: single-section
+weight: 12
 ---
 
 # January 12

@@ -4,6 +4,7 @@ linkTitle: "January 17"
 description: >
   Readings for January 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Revelation 14:1, 2 Samuel 11:2
 layout: single-section
+weight: 17
 ---
 
 # January 17

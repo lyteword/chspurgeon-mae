@@ -4,6 +4,7 @@ linkTitle: "January 2"
 description: >
   Readings for January 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 4:2, Isaiah 41:1
 layout: single-section
+weight: 2
 ---
 
 # January 2

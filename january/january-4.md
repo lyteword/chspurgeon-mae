@@ -4,6 +4,7 @@ linkTitle: "January 4"
 description: >
   Readings for January 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Peter 3:18, Genesis 42:8
 layout: single-section
+weight: 4
 ---
 
 # January 4

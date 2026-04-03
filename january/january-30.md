@@ -4,6 +4,7 @@ linkTitle: "January 30"
 description: >
   Readings for January 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Samuel 5:24, Ephesians 1:11
 layout: single-section
+weight: 30
 ---
 
 # January 30

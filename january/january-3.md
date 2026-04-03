@@ -4,6 +4,7 @@ linkTitle: "January 3"
 description: >
   Readings for January 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 49:8, Luke 3:4
 layout: single-section
+weight: 3
 ---
 
 # January 3

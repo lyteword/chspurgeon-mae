@@ -4,6 +4,7 @@ linkTitle: "January 31"
 description: >
   Readings for January 31 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 23:6, 2 Samuel 18:23
 layout: single-section
+weight: 31
 ---
 
 # January 31

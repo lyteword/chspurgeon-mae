@@ -4,6 +4,7 @@ linkTitle: "January 6"
 description: >
   Readings for January 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Peter 5:7, Ezekiel 33:22
 layout: single-section
+weight: 6
 ---
 
 # January 6

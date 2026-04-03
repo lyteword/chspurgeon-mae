@@ -4,6 +4,7 @@ linkTitle: "January 22"
 description: >
   Readings for January 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ezekiel 15:2, Job 1:9
 layout: single-section
+weight: 22
 ---
 
 # January 22

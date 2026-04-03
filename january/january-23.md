@@ -4,6 +4,7 @@ linkTitle: "January 23"
 description: >
   Readings for January 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 89:19, Song of Solomon 1:4
 layout: single-section
+weight: 23
 ---
 
 # January 23

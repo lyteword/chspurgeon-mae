@@ -4,6 +4,7 @@ linkTitle: "January 5"
 description: >
   Readings for January 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 1:4, Genesis 1:4
 layout: single-section
+weight: 5
 ---
 
 # January 5
