@@ -4,6 +4,7 @@ linkTitle: "July 16"
 description: >
   Readings for July 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Exodus 16:21, Psalm 102:13, 14
 layout: single-section
+weight: 16
 ---
 
 # July 16

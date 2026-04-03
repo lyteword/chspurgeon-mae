@@ -4,6 +4,7 @@ linkTitle: "July 26"
 description: >
   Readings for July 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Peter 1:5, 6, Psalm 113:8
 layout: single-section
+weight: 26
 ---
 
 # July 26

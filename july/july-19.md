@@ -4,6 +4,7 @@ linkTitle: "July 19"
 description: >
   Readings for July 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Deuteronomy 5:24, Matthew 12:20
 layout: single-section
+weight: 19
 ---
 
 # July 19

@@ -4,6 +4,7 @@ linkTitle: "July 24"
 description: >
   Readings for July 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Exodus 14:13, Joel 2:11
 layout: single-section
+weight: 24
 ---
 
 # July 24

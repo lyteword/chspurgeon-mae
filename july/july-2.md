@@ -4,6 +4,7 @@ linkTitle: "July 2"
 description: >
   Readings for July 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 33:21, Psalm 28:1
 layout: single-section
+weight: 2
 ---
 
 # July 2

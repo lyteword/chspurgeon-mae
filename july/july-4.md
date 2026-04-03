@@ -4,6 +4,7 @@ linkTitle: "July 4"
 description: >
   Readings for July 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 17:17, Psalm 24:4
 layout: single-section
+weight: 4
 ---
 
 # July 4

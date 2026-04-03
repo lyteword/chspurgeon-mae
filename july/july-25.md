@@ -4,6 +4,7 @@ linkTitle: "July 25"
 description: >
   Readings for July 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 39:12, Hosea 5:15
 layout: single-section
+weight: 25
 ---
 
 # July 25

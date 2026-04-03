@@ -4,6 +4,7 @@ linkTitle: "July 3"
 description: >
   Readings for July 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 41:4, 2 Timothy 2:12
 layout: single-section
+weight: 3
 ---
 
 # July 3

@@ -4,6 +4,7 @@ linkTitle: "July 12"
 description: >
   Readings for July 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jude 1, 2 Timothy 4:18
 layout: single-section
+weight: 12
 ---
 
 # July 12

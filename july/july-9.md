@@ -4,6 +4,7 @@ linkTitle: "July 9"
 description: >
   Readings for July 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 103:2, Genesis 1:4
 layout: single-section
+weight: 9
 ---
 
 # July 9

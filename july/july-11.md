@@ -4,6 +4,7 @@ linkTitle: "July 11"
 description: >
   Readings for July 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Peter 5:10, Joel 1:3
 layout: single-section
+weight: 11
 ---
 
 # July 11
