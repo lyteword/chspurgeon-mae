@@ -4,6 +4,7 @@ linkTitle: "February 15"
 description: >
   Readings for February 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Peter 3:18, Psalm 45:8
 layout: single-section
+weight: 15
 ---
 
 # February 15

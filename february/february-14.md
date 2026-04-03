@@ -4,6 +4,7 @@ linkTitle: "February 14"
 description: >
   Readings for February 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Kings 25:30, Luke 8:47
 layout: single-section
+weight: 14
 ---
 
 # February 14

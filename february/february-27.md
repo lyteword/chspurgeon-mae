@@ -4,6 +4,7 @@ linkTitle: "February 27"
 description: >
   Readings for February 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 91:9, Micah 5:2
 layout: single-section
+weight: 27
 ---
 
 # February 27

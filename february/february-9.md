@@ -4,6 +4,7 @@ linkTitle: "February 9"
 description: >
   Readings for February 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Samuel 5:23, Luke 11:4
 layout: single-section
+weight: 9
 ---
 
 # February 9

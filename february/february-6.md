@@ -4,6 +4,7 @@ linkTitle: "February 6"
 description: >
   Readings for February 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 6:18, James 5:16
 layout: single-section
+weight: 6
 ---
 
 # February 6

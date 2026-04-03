@@ -4,6 +4,7 @@ linkTitle: "February 7"
 description: >
   Readings for February 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Micah 2:10, Revelation 11:12
 layout: single-section
+weight: 7
 ---
 
 # February 7

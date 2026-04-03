@@ -4,6 +4,7 @@ linkTitle: "February 24"
 description: >
   Readings for February 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ezekiel 34:26, Zechariah 1:12,13
 layout: single-section
+weight: 24
 ---
 
 # February 24

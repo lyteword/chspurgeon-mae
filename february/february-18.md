@@ -4,6 +4,7 @@ linkTitle: "February 18"
 description: >
   Readings for February 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Job 10:2, Luke 15:18
 layout: single-section
+weight: 18
 ---
 
 # February 18

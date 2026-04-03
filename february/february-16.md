@@ -4,6 +4,7 @@ linkTitle: "February 16"
 description: >
   Readings for February 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Philippians 4:11, Nehemiah 9:20
 layout: single-section
+weight: 16
 ---
 
 # February 16

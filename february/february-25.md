@@ -4,6 +4,7 @@ linkTitle: "February 25"
 description: >
   Readings for February 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 3:7, Jonah 1:3
 layout: single-section
+weight: 25
 ---
 
 # February 25

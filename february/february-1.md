@@ -4,6 +4,7 @@ linkTitle: "February 1"
 description: >
   Readings for February 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 138:5, 2 Samuel 1:26
 layout: single-section
+weight: 1
 ---
 
 # February 1

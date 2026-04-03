@@ -4,6 +4,7 @@ linkTitle: "February 10"
 description: >
   Readings for February 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Philippians 4:12, Isaiah 44:22
 layout: single-section
+weight: 10
 ---
 
 # February 10
