@@ -4,6 +4,7 @@ linkTitle: "December 12"
 description: >
   Readings for December 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Habakkuk 3:6, Hosea 5:7
 layout: single-section
+weight: 12
 ---
 
 # December 12

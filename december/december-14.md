@@ -4,6 +4,7 @@ linkTitle: "December 14"
 description: >
   Readings for December 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 84:7, Galatians 2:20
 layout: single-section
+weight: 14
 ---
 
 # December 14

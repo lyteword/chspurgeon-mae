@@ -4,6 +4,7 @@ linkTitle: "December 6"
 description: >
   Readings for December 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 15:48, Revelation 1:13
 layout: single-section
+weight: 6
 ---
 
 # December 6

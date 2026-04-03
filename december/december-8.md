@@ -4,6 +4,7 @@ linkTitle: "December 8"
 description: >
   Readings for December 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Revelation 3:4, Psalm 68:10
 layout: single-section
+weight: 8
 ---
 
 # December 8

@@ -4,6 +4,7 @@ linkTitle: "December 24"
 description: >
   Readings for December 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 8:9, Isaiah 40:5
 layout: single-section
+weight: 24
 ---
 
 # December 24

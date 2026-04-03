@@ -4,6 +4,7 @@ linkTitle: "December 3"
 description: >
   Readings for December 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 4:7, Psalm 24:8
 layout: single-section
+weight: 3
 ---
 
 # December 3

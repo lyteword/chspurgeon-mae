@@ -4,6 +4,7 @@ linkTitle: "December 4"
 description: >
   Readings for December 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Acts 18:10, Romans 8:23
 layout: single-section
+weight: 4
 ---
 
 # December 4

@@ -4,6 +4,7 @@ linkTitle: "December 10"
 description: >
   Readings for December 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Thessalonians 4:17, Acts 16:14
 layout: single-section
+weight: 10
 ---
 
 # December 10

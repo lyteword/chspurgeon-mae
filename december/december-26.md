@@ -4,6 +4,7 @@ linkTitle: "December 26"
 description: >
   Readings for December 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 15:45, Matthew 28:20
 layout: single-section
+weight: 26
 ---
 
 # December 26

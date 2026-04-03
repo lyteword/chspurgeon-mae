@@ -4,6 +4,7 @@ linkTitle: "December 25"
 description: >
   Readings for December 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 7:14, Job 1:5
 layout: single-section
+weight: 25
 ---
 
 # December 25

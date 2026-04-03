@@ -4,6 +4,7 @@ linkTitle: "December 17"
 description: >
   Readings for December 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 2:2, John 10:9
 layout: single-section
+weight: 17
 ---
 
 # December 17

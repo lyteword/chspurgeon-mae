@@ -4,6 +4,7 @@ linkTitle: "December 22"
 description: >
   Readings for December 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 41:10, Deuteronomy 32:5
 layout: single-section
+weight: 22
 ---
 
 # December 22

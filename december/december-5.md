@@ -4,6 +4,7 @@ linkTitle: "December 5"
 description: >
   Readings for December 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 7:7, Zechariah 1:20
 layout: single-section
+weight: 5
 ---
 
 # December 5

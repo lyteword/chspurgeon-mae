@@ -4,6 +4,7 @@ linkTitle: "December 20"
 description: >
   Readings for December 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 31:3, Matthew 20:8
 layout: single-section
+weight: 20
 ---
 
 # December 20

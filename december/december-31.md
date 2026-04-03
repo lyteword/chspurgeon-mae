@@ -4,6 +4,7 @@ linkTitle: "December 31"
 description: >
   Readings for December 31 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 7:37, Jeremiah 8:20
 layout: single-section
+weight: 31
 ---
 
 # December 31

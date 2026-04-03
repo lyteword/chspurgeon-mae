@@ -4,6 +4,7 @@ linkTitle: "December 29"
 description: >
   Readings for December 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Samuel 7:12, Matthew 22:42
 layout: single-section
+weight: 29
 ---
 
 # December 29
