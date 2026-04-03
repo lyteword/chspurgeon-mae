@@ -4,6 +4,7 @@ linkTitle: "April 4"
 description: >
   Readings for April 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 5:21, Isaiah 2:3
 layout: single-section
+weight: 4
 ---
 
 # April 4

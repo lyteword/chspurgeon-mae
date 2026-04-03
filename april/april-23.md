@@ -4,6 +4,7 @@ linkTitle: "April 23"
 description: >
   Readings for April 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 8:37, Revelation 5:6
 layout: single-section
+weight: 23
 ---
 
 # April 23

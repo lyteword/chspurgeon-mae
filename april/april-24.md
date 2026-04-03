@@ -4,6 +4,7 @@ linkTitle: "April 24"
 description: >
   Readings for April 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Nehemiah 9:38, Song of Solomon 2:12
 layout: single-section
+weight: 24
 ---
 
 # April 24

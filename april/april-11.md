@@ -4,6 +4,7 @@ linkTitle: "April 11"
 description: >
   Readings for April 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 22:14, Psalm 25:18
 layout: single-section
+weight: 11
 ---
 
 # April 11

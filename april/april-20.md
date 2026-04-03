@@ -4,6 +4,7 @@ linkTitle: "April 20"
 description: >
   Readings for April 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 2:14, 1 Samuel 18:17
 layout: single-section
+weight: 20
 ---
 
 # April 20

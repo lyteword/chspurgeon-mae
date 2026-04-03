@@ -4,6 +4,7 @@ linkTitle: "April 17"
 description: >
   Readings for April 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 12:24, John 12:21
 layout: single-section
+weight: 17
 ---
 
 # April 17

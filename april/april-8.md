@@ -4,6 +4,7 @@ linkTitle: "April 8"
 description: >
   Readings for April 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 23:31, Psalm 23:4
 layout: single-section
+weight: 8
 ---
 
 # April 8

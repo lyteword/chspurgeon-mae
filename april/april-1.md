@@ -4,6 +4,7 @@ linkTitle: "April 1"
 description: >
   Readings for April 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 1:2, Hosea 10:12
 layout: single-section
+weight: 1
 ---
 
 # April 1

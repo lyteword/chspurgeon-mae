@@ -4,6 +4,7 @@ linkTitle: "April 6"
 description: >
   Readings for April 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 13:13, Psalm 118:12
 layout: single-section
+weight: 6
 ---
 
 # April 6

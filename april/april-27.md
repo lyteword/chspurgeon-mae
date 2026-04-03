@@ -4,6 +4,7 @@ linkTitle: "April 27"
 description: >
   Readings for April 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 67:6, Psalm 10:16
 layout: single-section
+weight: 27
 ---
 
 # April 27

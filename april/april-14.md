@@ -4,6 +4,7 @@ linkTitle: "April 14"
 description: >
   Readings for April 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 22:7, Isaiah 3:10
 layout: single-section
+weight: 14
 ---
 
 # April 14

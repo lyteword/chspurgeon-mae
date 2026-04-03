@@ -4,6 +4,7 @@ linkTitle: "April 22"
 description: >
   Readings for April 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Acts 5:31, Psalm 91:5
 layout: single-section
+weight: 22
 ---
 
 # April 22
