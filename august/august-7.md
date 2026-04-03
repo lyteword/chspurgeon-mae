@@ -4,6 +4,7 @@ linkTitle: "August 7"
 description: >
   Readings for August 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 1:4, 1 Thessalonians 2:18
 layout: single-section
+weight: 7
 ---
 
 # August 7

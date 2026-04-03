@@ -4,6 +4,7 @@ linkTitle: "August 20"
 description: >
   Readings for August 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Samuel 23:1, Nehemiah 3:8
 layout: single-section
+weight: 20
 ---
 
 # August 20

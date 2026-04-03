@@ -4,6 +4,7 @@ linkTitle: "August 19"
 description: >
   Readings for August 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Micah 5:4, Psalm 31:4
 layout: single-section
+weight: 19
 ---
 
 # August 19

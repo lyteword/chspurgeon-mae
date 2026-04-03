@@ -4,6 +4,7 @@ linkTitle: "August 8"
 description: >
   Readings for August 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 59:5, Mark 9:23
 layout: single-section
+weight: 8
 ---
 
 # August 8

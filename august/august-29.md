@@ -4,6 +4,7 @@ linkTitle: "August 29"
 description: >
   Readings for August 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 51:1, Numbers 6:4
 layout: single-section
+weight: 29
 ---
 
 # August 29

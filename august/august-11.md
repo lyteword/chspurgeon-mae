@@ -4,6 +4,7 @@ linkTitle: "August 11"
 description: >
   Readings for August 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Job 29:2, 2 Thessalonians 2:16
 layout: single-section
+weight: 11
 ---
 
 # August 11

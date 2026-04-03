@@ -4,6 +4,7 @@ linkTitle: "August 2"
 description: >
   Readings for August 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 1:11, Ruth 2:17
 layout: single-section
+weight: 2
 ---
 
 # August 2

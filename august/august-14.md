@@ -4,6 +4,7 @@ linkTitle: "August 14"
 description: >
   Readings for August 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 92:4, Exodus 3:7
 layout: single-section
+weight: 14
 ---
 
 # August 14

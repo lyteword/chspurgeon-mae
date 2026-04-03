@@ -4,6 +4,7 @@ linkTitle: "August 21"
 description: >
   Readings for August 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Proverbs 11:25, Isaiah 45:19
 layout: single-section
+weight: 21
 ---
 
 # August 21

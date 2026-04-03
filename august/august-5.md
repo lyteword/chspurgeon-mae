@@ -4,6 +4,7 @@ linkTitle: "August 5"
 description: >
   Readings for August 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 8:28, Numbers 32:6
 layout: single-section
+weight: 5
 ---
 
 # August 5

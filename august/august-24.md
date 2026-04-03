@@ -4,6 +4,7 @@ linkTitle: "August 24"
 description: >
   Readings for August 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Micah 2:13, Exodus 22:6
 layout: single-section
+weight: 24
 ---
 
 # August 24

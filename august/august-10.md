@@ -4,6 +4,7 @@ linkTitle: "August 10"
 description: >
   Readings for August 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 3:4, Matthew 9:6
 layout: single-section
+weight: 10
 ---
 
 # August 10

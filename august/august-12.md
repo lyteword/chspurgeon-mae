@@ -4,6 +4,7 @@ linkTitle: "August 12"
 description: >
   Readings for August 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 97:1, Genesis 9:14
 layout: single-section
+weight: 12
 ---
 
 # August 12

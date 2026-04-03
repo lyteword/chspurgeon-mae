@@ -4,6 +4,7 @@ linkTitle: "August 3"
 description: >
   Readings for August 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Revelation 21:23, Luke 8:42
 layout: single-section
+weight: 3
 ---
 
 # August 3

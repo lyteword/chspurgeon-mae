@@ -4,6 +4,7 @@ linkTitle: "August 31"
 description: >
   Readings for August 31 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 51:5, 1 John 1:7
 layout: single-section
+weight: 31
 ---
 
 # August 31

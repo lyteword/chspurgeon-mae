@@ -4,6 +4,7 @@ linkTitle: "August 23"
 description: >
   Readings for August 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 65:19, Ephesians 3:17
 layout: single-section
+weight: 23
 ---
 
 # August 23

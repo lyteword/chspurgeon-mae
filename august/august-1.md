@@ -4,6 +4,7 @@ linkTitle: "August 1"
 description: >
   Readings for August 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ruth 2:2, Psalm 65:11
 layout: single-section
+weight: 1
 ---
 
 # August 1
