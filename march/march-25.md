@@ -4,6 +4,7 @@ linkTitle: "March 25"
 description: >
   Readings for March 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 22:48, John 3:13
 layout: single-section
+weight: 25
 ---
 
 # March 25

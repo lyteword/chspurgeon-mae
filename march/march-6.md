@@ -4,6 +4,7 @@ linkTitle: "March 6"
 description: >
   Readings for March 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 3:7, Proverbs 18:12
 layout: single-section
+weight: 6
 ---
 
 # March 6

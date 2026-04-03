@@ -4,6 +4,7 @@ linkTitle: "March 24"
 description: >
   Readings for March 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 5:7, Luke 10:21
 layout: single-section
+weight: 24
 ---
 
 # March 24

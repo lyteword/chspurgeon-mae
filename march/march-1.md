@@ -4,6 +4,7 @@ linkTitle: "March 1"
 description: >
   Readings for March 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 4:16, 1 Peter 2:7
 layout: single-section
+weight: 1
 ---
 
 # March 1

@@ -4,6 +4,7 @@ linkTitle: "March 29"
 description: >
   Readings for March 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 5:8, Song of Solomon 5:6
 layout: single-section
+weight: 29
 ---
 
 # March 29

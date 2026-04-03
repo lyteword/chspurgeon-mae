@@ -4,6 +4,7 @@ linkTitle: "March 22"
 description: >
   Readings for March 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 26:39, John 17:24
 layout: single-section
+weight: 22
 ---
 
 # March 22

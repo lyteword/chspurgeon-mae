@@ -4,6 +4,7 @@ linkTitle: "March 21"
 description: >
   Readings for March 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 16:32, Job 38:31
 layout: single-section
+weight: 21
 ---
 
 # March 21

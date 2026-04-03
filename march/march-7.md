@@ -4,6 +4,7 @@ linkTitle: "March 7"
 description: >
   Readings for March 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Mark 11:22, Psalm 118:8
 layout: single-section
+weight: 7
 ---
 
 # March 7

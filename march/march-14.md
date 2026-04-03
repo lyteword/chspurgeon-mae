@@ -4,6 +4,7 @@ linkTitle: "March 14"
 description: >
   Readings for March 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 10:12, Psalm 39:1
 layout: single-section
+weight: 14
 ---
 
 # March 14

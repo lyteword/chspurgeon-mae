@@ -4,6 +4,7 @@ linkTitle: "March 20"
 description: >
   Readings for March 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 2:8, Ephesians 5:25
 layout: single-section
+weight: 20
 ---
 
 # March 20

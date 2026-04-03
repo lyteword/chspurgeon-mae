@@ -4,6 +4,7 @@ linkTitle: "March 13"
 description: >
   Readings for March 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Kings 7:3, Genesis 8:9
 layout: single-section
+weight: 13
 ---
 
 # March 13

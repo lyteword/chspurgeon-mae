@@ -4,6 +4,7 @@ linkTitle: "March 16"
 description: >
   Readings for March 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 39:12, Psalm 19:13
 layout: single-section
+weight: 16
 ---
 
 # March 16

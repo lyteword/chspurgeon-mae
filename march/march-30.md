@@ -4,6 +4,7 @@ linkTitle: "March 30"
 description: >
   Readings for March 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 53:12, Lamentations 3:40
 layout: single-section
+weight: 30
 ---
 
 # March 30

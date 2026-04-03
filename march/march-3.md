@@ -4,6 +4,7 @@ linkTitle: "March 3"
 description: >
   Readings for March 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 48:10, Matthew 3:16
 layout: single-section
+weight: 3
 ---
 
 # March 3
