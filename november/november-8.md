@@ -4,6 +4,7 @@ linkTitle: "November 8"
 description: >
   Readings for November 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 2:6, Mark 14:14
 layout: single-section
+weight: 8
 ---
 
 # November 8

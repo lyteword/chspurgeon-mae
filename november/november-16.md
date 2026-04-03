@@ -4,6 +4,7 @@ linkTitle: "November 16"
 description: >
   Readings for November 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Lamentations 3:24, Isaiah 33:17
 layout: single-section
+weight: 16
 ---
 
 # November 16

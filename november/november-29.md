@@ -4,6 +4,7 @@ linkTitle: "November 29"
 description: >
   Readings for November 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Leviticus 19:16, 17, Exodus 35:8
 layout: single-section
+weight: 29
 ---
 
 # November 29

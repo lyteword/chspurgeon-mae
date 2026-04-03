@@ -4,6 +4,7 @@ linkTitle: "November 26"
 description: >
   Readings for November 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ecclesiastes 9:10, Zechariah 4:10
 layout: single-section
+weight: 26
 ---
 
 # November 26

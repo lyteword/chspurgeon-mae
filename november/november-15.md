@@ -4,6 +4,7 @@ linkTitle: "November 15"
 description: >
   Readings for November 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Deuteronomy 32:9, Psalm 68:28
 layout: single-section
+weight: 15
 ---
 
 # November 15

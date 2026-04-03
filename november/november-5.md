@@ -4,6 +4,7 @@ linkTitle: "November 5"
 description: >
   Readings for November 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 54:17, Psalm 100:4
 layout: single-section
+weight: 5
 ---
 
 # November 5

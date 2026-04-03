@@ -4,6 +4,7 @@ linkTitle: "November 11"
 description: >
   Readings for November 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Deuteronomy 33:27, Psalm 47:4
 layout: single-section
+weight: 11
 ---
 
 # November 11

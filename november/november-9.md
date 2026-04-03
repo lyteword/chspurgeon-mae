@@ -4,6 +4,7 @@ linkTitle: "November 9"
 description: >
   Readings for November 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 2:6, Isaiah 33:16
 layout: single-section
+weight: 9
 ---
 
 # November 9

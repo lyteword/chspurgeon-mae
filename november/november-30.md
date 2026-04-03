@@ -4,6 +4,7 @@ linkTitle: "November 30"
 description: >
   Readings for November 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Chronicles 25:9, Revelation 12:7
 layout: single-section
+weight: 30
 ---
 
 # November 30

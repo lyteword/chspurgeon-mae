@@ -4,6 +4,7 @@ linkTitle: "November 19"
 description: >
   Readings for November 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Titus 3:9, Job 23:3
 layout: single-section
+weight: 19
 ---
 
 # November 19

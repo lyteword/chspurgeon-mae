@@ -4,6 +4,7 @@ linkTitle: "November 27"
 description: >
   Readings for November 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Zechariah 3:1, Ephesians 1:7
 layout: single-section
+weight: 27
 ---
 
 # November 27

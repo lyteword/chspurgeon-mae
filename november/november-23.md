@@ -4,6 +4,7 @@ linkTitle: "November 23"
 description: >
   Readings for November 23 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 1:6, Isaiah 40:9
 layout: single-section
+weight: 23
 ---
 
 # November 23

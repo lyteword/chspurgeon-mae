@@ -4,6 +4,7 @@ linkTitle: "November 6"
 description: >
   Readings for November 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 44:3, Hebrews 9:20
 layout: single-section
+weight: 6
 ---
 
 # November 6

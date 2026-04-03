@@ -4,6 +4,7 @@ linkTitle: "November 24"
 description: >
   Readings for November 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 33:21, Proverbs 24:33, 34
 layout: single-section
+weight: 24
 ---
 
 # November 24

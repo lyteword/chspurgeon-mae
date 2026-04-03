@@ -4,6 +4,7 @@ linkTitle: "November 20"
 description: >
   Readings for November 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Lamentations 3:58, Proverbs 30:26
 layout: single-section
+weight: 20
 ---
 
 # November 20

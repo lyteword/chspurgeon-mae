@@ -4,6 +4,7 @@ linkTitle: "November 4"
 description: >
   Readings for November 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 12:9, Psalm 36:9
 layout: single-section
+weight: 4
 ---
 
 # November 4

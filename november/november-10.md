@@ -4,6 +4,7 @@ linkTitle: "November 10"
 description: >
   Readings for November 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Deuteronomy 33:27, Matthew 10:25
 layout: single-section
+weight: 10
 ---
 
 # November 10

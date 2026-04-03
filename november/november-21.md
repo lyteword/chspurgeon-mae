@@ -4,6 +4,7 @@ linkTitle: "November 21"
 description: >
   Readings for November 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 4:30, John 12:2
 layout: single-section
+weight: 21
 ---
 
 # November 21
