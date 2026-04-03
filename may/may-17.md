@@ -4,6 +4,7 @@ linkTitle: "May 17"
 description: >
   Readings for May 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 2:6, Isaiah 41:9
 layout: single-section
+weight: 17
 ---
 
 # May 17

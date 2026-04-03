@@ -4,6 +4,7 @@ linkTitle: "May 18"
 description: >
   Readings for May 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Colossians 2:9, 10, Hebrews 12:11
 layout: single-section
+weight: 18
 ---
 
 # May 18

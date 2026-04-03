@@ -4,6 +4,7 @@ linkTitle: "May 2"
 description: >
   Readings for May 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 17:15, Hebrews 11:13
 layout: single-section
+weight: 2
 ---
 
 # May 2

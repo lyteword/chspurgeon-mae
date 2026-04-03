@@ -4,6 +4,7 @@ linkTitle: "May 5"
 description: >
   Readings for May 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 6:16, Proverbs 16:20
 layout: single-section
+weight: 5
 ---
 
 # May 5

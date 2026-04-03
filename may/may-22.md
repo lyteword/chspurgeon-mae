@@ -4,6 +4,7 @@ linkTitle: "May 22"
 description: >
   Readings for May 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 107:7, Song of Solomon 1:16
 layout: single-section
+weight: 22
 ---
 
 # May 22

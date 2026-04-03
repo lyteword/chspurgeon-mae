@@ -4,6 +4,7 @@ linkTitle: "May 3"
 description: >
   Readings for May 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 16:33, Psalm 46:1
 layout: single-section
+weight: 3
 ---
 
 # May 3

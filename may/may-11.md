@@ -4,6 +4,7 @@ linkTitle: "May 11"
 description: >
   Readings for May 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 28:20, Joshua 1:7
 layout: single-section
+weight: 11
 ---
 
 # May 11

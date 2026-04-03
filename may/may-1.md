@@ -4,6 +4,7 @@ linkTitle: "May 1"
 description: >
   Readings for May 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 5:13, Song of Solomon 2:1
 layout: single-section
+weight: 1
 ---
 
 # May 1

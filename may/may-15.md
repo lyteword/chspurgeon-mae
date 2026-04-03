@@ -4,6 +4,7 @@ linkTitle: "May 15"
 description: >
   Readings for May 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Acts 13:39, Hebrews 12:23
 layout: single-section
+weight: 15
 ---
 
 # May 15

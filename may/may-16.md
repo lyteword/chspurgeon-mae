@@ -4,6 +4,7 @@ linkTitle: "May 16"
 description: >
   Readings for May 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Timothy 6:17, 2 Kings 3:16,17
 layout: single-section
+weight: 16
 ---
 
 # May 16

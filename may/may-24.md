@@ -4,6 +4,7 @@ linkTitle: "May 24"
 description: >
   Readings for May 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 66:20, Philippians 1:27
 layout: single-section
+weight: 24
 ---
 
 # May 24

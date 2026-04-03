@@ -4,6 +4,7 @@ linkTitle: "May 30"
 description: >
   Readings for May 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 2:15, Romans 6:6
 layout: single-section
+weight: 30
 ---
 
 # May 30

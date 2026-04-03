@@ -4,6 +4,7 @@ linkTitle: "May 6"
 description: >
   Readings for May 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 John 4:13, Job 14:14
 layout: single-section
+weight: 6
 ---
 
 # May 6

@@ -4,6 +4,7 @@ linkTitle: "May 25"
 description: >
   Readings for May 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 38:21, Luke 24:33,35
 layout: single-section
+weight: 25
 ---
 
 # May 25
