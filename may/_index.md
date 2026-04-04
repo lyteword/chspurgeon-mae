@@ -4,6 +4,7 @@ linkTitle: "May"
 description: >
   Explore the days of May through Charles Spurgeon’s Morning and Evening, reflecting on biblical and spiritual guidance for daily meditation.
 layout: single-section
+weight: 5
 ---
 
 # May

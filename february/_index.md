@@ -4,6 +4,7 @@ linkTitle: "February"
 description: >
   Explore the days of February through Charles Spurgeon’s Morning and Evening, reflecting on biblical and spiritual guidance for daily meditation.
 layout: single-section
+weight: 2
 ---
 
 # February

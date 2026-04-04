@@ -4,6 +4,7 @@ linkTitle: "June"
 description: >
   Explore the days of June through Charles Spurgeon’s Morning and Evening, reflecting on biblical and spiritual guidance for daily meditation.
 layout: single-section
+weight: 6
 ---
 
 # June

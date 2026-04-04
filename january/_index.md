@@ -4,6 +4,7 @@ linkTitle: "January"
 description: >
   Explore the days of January through Charles Spurgeon’s Morning and Evening, reflecting on biblical and spiritual guidance for daily meditation.
 layout: single-section
+weight: 1
 ---
 
 # January

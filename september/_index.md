@@ -4,6 +4,7 @@ linkTitle: "September"
 description: >
   Explore the days of September through Charles Spurgeon’s Morning and Evening, reflecting on biblical and spiritual guidance for daily meditation.
 layout: single-section
+weight: 9
 ---
 
 # September
