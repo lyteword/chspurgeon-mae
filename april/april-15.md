@@ -3,7 +3,6 @@ title: "April 15 | Read Morning and Evening Online"
 linkTitle: "April 15"
 description: >
   Readings for April 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 22:1, Psalm 28:9
-layout: single-section
 weight: 15
 ---
 

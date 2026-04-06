@@ -3,7 +3,6 @@ title: "April 28 | Read Morning and Evening Online"
 linkTitle: "April 28"
 description: >
   Readings for April 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 119:49, Ezekiel 3:7
-layout: single-section
 weight: 28
 ---
 

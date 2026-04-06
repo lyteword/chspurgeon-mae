@@ -3,7 +3,6 @@ title: "April 26 | Read Morning and Evening Online"
 linkTitle: "April 26"
 description: >
   Readings for April 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 11:24, Revelation 16:15
-layout: single-section
 weight: 26
 ---
 

@@ -3,7 +3,6 @@ title: "April 18 | Read Morning and Evening Online"
 linkTitle: "April 18"
 description: >
   Readings for April 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Joshua 2:21, Genesis 32:12
-layout: single-section
 weight: 18
 ---
 

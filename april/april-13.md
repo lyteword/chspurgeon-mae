@@ -3,7 +3,6 @@ title: "April 13 | Read Morning and Evening Online"
 linkTitle: "April 13"
 description: >
   Readings for April 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 1:13, Leviticus 1:4
-layout: single-section
 weight: 13
 ---
 

@@ -3,7 +3,6 @@ title: "April 12 | Read Morning and Evening Online"
 linkTitle: "April 12"
 description: >
   Readings for April 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 22:14, Nehemiah 3:15
-layout: single-section
 weight: 12
 ---
 

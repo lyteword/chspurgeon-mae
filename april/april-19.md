@@ -3,7 +3,6 @@ title: "April 19 | Read Morning and Evening Online"
 linkTitle: "April 19"
 description: >
   Readings for April 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 27:51, Revelation 3:14
-layout: single-section
 weight: 19
 ---
 

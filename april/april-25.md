@@ -3,7 +3,6 @@ title: "April 25 | Read Morning and Evening Online"
 linkTitle: "April 25"
 description: >
   Readings for April 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 2:10, Revelation 3:20
-layout: single-section
 weight: 25
 ---
 

@@ -3,7 +3,6 @@ title: "April 5 | Read Morning and Evening Online"
 linkTitle: "April 5"
 description: >
   Readings for April 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 23:26, Proverbs 15:33
-layout: single-section
 weight: 5
 ---
 

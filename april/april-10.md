@@ -3,7 +3,6 @@ title: "April 10 | Read Morning and Evening Online"
 linkTitle: "April 10"
 description: >
   Readings for April 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 23:33, Acts 27:23
-layout: single-section
 weight: 10
 ---
 
