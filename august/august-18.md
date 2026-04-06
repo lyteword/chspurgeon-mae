@@ -3,7 +3,6 @@ title: "August 18 | Read Morning and Evening Online"
 linkTitle: "August 18"
 description: >
   Readings for August 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 51:51, Mark 15:23
-layout: single-section
 weight: 18
 ---
 

@@ -3,7 +3,6 @@ title: "August 15 | Read Morning and Evening Online"
 linkTitle: "August 15"
 description: >
   Readings for August 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 24:63, Ezekiel 36:26
-layout: single-section
 weight: 15
 ---
 

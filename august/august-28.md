@@ -3,7 +3,6 @@ title: "August 28 | Read Morning and Evening Online"
 linkTitle: "August 28"
 description: >
   Readings for August 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Exodus 25:6, Isaiah 54:1
-layout: single-section
 weight: 28
 ---
 

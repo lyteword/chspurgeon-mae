@@ -3,7 +3,6 @@ title: "August 26 | Read Morning and Evening Online"
 linkTitle: "August 26"
 description: >
   Readings for August 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalms 111:9, Mark 9:15
-layout: single-section
 weight: 26
 ---
 

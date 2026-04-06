@@ -3,7 +3,6 @@ title: "August 4 | Read Morning and Evening Online"
 linkTitle: "August 4"
 description: >
   Readings for August 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Daniel 11:32, Haggai 2:17
-layout: single-section
 weight: 4
 ---
 

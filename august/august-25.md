@@ -3,7 +3,6 @@ title: "August 25 | Read Morning and Evening Online"
 linkTitle: "August 25"
 description: >
   Readings for August 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 2:3, Acts 8:37
-layout: single-section
 weight: 25
 ---
 

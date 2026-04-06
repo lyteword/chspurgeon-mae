@@ -3,7 +3,6 @@ title: "August 13 | Read Morning and Evening Online"
 linkTitle: "August 13"
 description: >
   Readings for August 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 104:16, Genesis 9:15
-layout: single-section
 weight: 13
 ---
 

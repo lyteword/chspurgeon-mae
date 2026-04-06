@@ -3,7 +3,6 @@ title: "August 9 | Read Morning and Evening Online"
 linkTitle: "August 9"
 description: >
   Readings for August 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Revelation 21:23, Mark 16:9
-layout: single-section
 weight: 9
 ---
 

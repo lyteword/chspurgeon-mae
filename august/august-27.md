@@ -3,7 +3,6 @@ title: "August 27 | Read Morning and Evening Online"
 linkTitle: "August 27"
 description: >
   Readings for August 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Numbers 14:11, Psalm 31:5
-layout: single-section
 weight: 27
 ---
 
