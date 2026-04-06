@@ -3,7 +3,6 @@ title: "July 21 | Read Morning and Evening Online"
 linkTitle: "July 21"
 description: >
   Readings for July 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 37:22, Psalm 42:9
-layout: single-section
 weight: 21
 ---
 

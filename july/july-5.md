@@ -3,7 +3,6 @@ title: "July 5 | Read Morning and Evening Online"
 linkTitle: "July 5"
 description: >
   Readings for July 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 1:7, Isaiah 26:4
-layout: single-section
 weight: 5
 ---
 

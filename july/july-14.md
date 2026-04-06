@@ -3,7 +3,6 @@ title: "July 14 | Read Morning and Evening Online"
 linkTitle: "July 14"
 description: >
   Readings for July 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Exodus 20:25, Matthew 28:1
-layout: single-section
 weight: 14
 ---
 

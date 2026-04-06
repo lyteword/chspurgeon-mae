@@ -3,7 +3,6 @@ title: "July 10 | Read Morning and Evening Online"
 linkTitle: "July 10"
 description: >
   Readings for July 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 2:19, Genesis 1:5
-layout: single-section
 weight: 10
 ---
 

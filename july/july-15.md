@@ -3,7 +3,6 @@ title: "July 15 | Read Morning and Evening Online"
 linkTitle: "July 15"
 description: >
   Readings for July 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Leviticus 6:13, Mark 16:9
-layout: single-section
 weight: 15
 ---
 

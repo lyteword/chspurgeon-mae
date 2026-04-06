@@ -3,7 +3,6 @@ title: "July 13 | Read Morning and Evening Online"
 linkTitle: "July 13"
 description: >
   Readings for July 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jonah 4:9, Psalm 56:9
-layout: single-section
 weight: 13
 ---
 

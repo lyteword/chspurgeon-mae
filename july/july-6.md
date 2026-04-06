@@ -3,7 +3,6 @@ title: "July 6 | Read Morning and Evening Online"
 linkTitle: "July 6"
 description: >
   Readings for July 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Proverbs 1:33, Job 13:23
-layout: single-section
 weight: 6
 ---
 
