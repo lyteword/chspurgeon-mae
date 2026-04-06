@@ -3,7 +3,6 @@ title: "February 19 | Read Morning and Evening Online"
 linkTitle: "February 19"
 description: >
   Readings for February 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ezekiel 36:37, John 1:41
-layout: single-section
 weight: 19
 ---
 

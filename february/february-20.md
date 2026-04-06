@@ -3,7 +3,6 @@ title: "February 20 | Read Morning and Evening Online"
 linkTitle: "February 20"
 description: >
   Readings for February 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 7:6, Matthew 4:1
-layout: single-section
 weight: 20
 ---
 

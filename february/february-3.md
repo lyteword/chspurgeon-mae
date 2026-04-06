@@ -3,7 +3,6 @@ title: "February 3 | Read Morning and Evening Online"
 linkTitle: "February 3"
 description: >
   Readings for February 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 8:12, Song of Solomon 1:7
-layout: single-section
 weight: 3
 ---
 

@@ -3,7 +3,6 @@ title: "February 4 | Read Morning and Evening Online"
 linkTitle: "February 4"
 description: >
   Readings for February 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hosea 3:1, Joshua 20:3
-layout: single-section
 weight: 4
 ---
 

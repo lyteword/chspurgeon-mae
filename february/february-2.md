@@ -3,7 +3,6 @@ title: "February 2 | Read Morning and Evening Online"
 linkTitle: "February 2"
 description: >
   Readings for February 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 9:22, 1 Chronicles 4:22
-layout: single-section
 weight: 2
 ---
 

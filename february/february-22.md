@@ -3,7 +3,6 @@ title: "February 22 | Read Morning and Evening Online"
 linkTitle: "February 22"
 description: >
   Readings for February 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Genesis 49:24, Nahum 1:3
-layout: single-section
 weight: 22
 ---
 

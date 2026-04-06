@@ -3,7 +3,6 @@ title: "February 8 | Read Morning and Evening Online"
 linkTitle: "February 8"
 description: >
   Readings for February 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 1:21, Matthew 1:21
-layout: single-section
 weight: 8
 ---
 

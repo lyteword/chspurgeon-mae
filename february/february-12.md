@@ -3,7 +3,6 @@ title: "February 12 | Read Morning and Evening Online"
 linkTitle: "February 12"
 description: >
   Readings for February 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 1:5, John 14:16
-layout: single-section
 weight: 12
 ---
 
