@@ -3,7 +3,6 @@ title: "November 14 | Read Morning and Evening Online"
 linkTitle: "November 14"
 description: >
   Readings for November 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Zephaniah 1:5, Genesis 29:26
-layout: single-section
 weight: 14
 ---
 

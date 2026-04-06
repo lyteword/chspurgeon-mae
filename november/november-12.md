@@ -3,7 +3,6 @@ title: "November 12 | Read Morning and Evening Online"
 linkTitle: "November 12"
 description: >
   Readings for November 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Peter 1:7, Luke 6:12
-layout: single-section
 weight: 12
 ---
 

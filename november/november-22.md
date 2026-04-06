@@ -3,7 +3,6 @@ title: "November 22 | Read Morning and Evening Online"
 linkTitle: "November 22"
 description: >
   Readings for November 22 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hosea 12:12, Philippians 3:10
-layout: single-section
 weight: 22
 ---
 

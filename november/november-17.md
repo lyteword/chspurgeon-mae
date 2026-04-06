@@ -3,7 +3,6 @@ title: "November 17 | Read Morning and Evening Online"
 linkTitle: "November 17"
 description: >
   Readings for November 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 11:36, Ecclesiastes 10:9
-layout: single-section
 weight: 17
 ---
 
