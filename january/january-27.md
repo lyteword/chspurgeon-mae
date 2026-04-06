@@ -3,7 +3,6 @@ title: "January 27 | Read Morning and Evening Online"
 linkTitle: "January 27"
 description: >
   Readings for January 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 1:16, Luke 2:19
-layout: single-section
 weight: 27
 ---
 

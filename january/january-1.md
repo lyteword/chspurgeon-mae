@@ -3,7 +3,6 @@ title: "January 1 | Read Morning and Evening Online"
 linkTitle: "January 1"
 description: >
   Readings for January 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Joshua 5:12, Song of Solomon 1:4
-layout: single-section
 weight: 1
 ---
 

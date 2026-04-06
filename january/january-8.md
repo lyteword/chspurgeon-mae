@@ -3,7 +3,6 @@ title: "January 8 | Read Morning and Evening Online"
 linkTitle: "January 8"
 description: >
   Readings for January 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Exodus 28:38, Song of Solomon 1:2
-layout: single-section
 weight: 8
 ---
 

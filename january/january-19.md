@@ -3,7 +3,6 @@ title: "January 19 | Read Morning and Evening Online"
 linkTitle: "January 19"
 description: >
   Readings for January 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Song of Solomon 3:1, Luke 24:45
-layout: single-section
 weight: 19
 ---
 

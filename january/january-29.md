@@ -3,7 +3,6 @@ title: "January 29 | Read Morning and Evening Online"
 linkTitle: "January 29"
 description: >
   Readings for January 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Corinthians 4:18, Genesis 8:11
-layout: single-section
 weight: 29
 ---
 

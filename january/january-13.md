@@ -3,7 +3,6 @@ title: "January 13 | Read Morning and Evening Online"
 linkTitle: "January 13"
 description: >
   Readings for January 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Kings 22:48, 2 Kings 6:6
-layout: single-section
 weight: 13
 ---
 

@@ -3,7 +3,6 @@ title: "January 18 | Read Morning and Evening Online"
 linkTitle: "January 18"
 description: >
   Readings for January 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 4:9, Luke 24:27
-layout: single-section
 weight: 18
 ---
 

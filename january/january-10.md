@@ -3,7 +3,6 @@ title: "January 10 | Read Morning and Evening Online"
 linkTitle: "January 10"
 description: >
   Readings for January 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Timothy 4:8, Job 19:26
-layout: single-section
 weight: 10
 ---
 

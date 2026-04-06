@@ -3,7 +3,6 @@ title: "January 11 | Read Morning and Evening Online"
 linkTitle: "January 11"
 description: >
   Readings for January 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 8:13, Luke 22:32
-layout: single-section
 weight: 11
 ---
 
