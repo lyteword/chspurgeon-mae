@@ -3,7 +3,6 @@ title: "October 29 | Read Morning and Evening Online"
 linkTitle: "October 29"
 description: >
   Readings for October 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 6:9, Luke 24:16
-layout: single-section
 weight: 29
 ---
 

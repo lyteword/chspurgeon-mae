@@ -3,7 +3,6 @@ title: "October 31 | Read Morning and Evening Online"
 linkTitle: "October 31"
 description: >
   Readings for October 31 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 51:10, Hosea 13:5
-layout: single-section
 weight: 31
 ---
 

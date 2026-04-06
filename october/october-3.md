@@ -3,7 +3,6 @@ title: "October 3 | Read Morning and Evening Online"
 linkTitle: "October 3"
 description: >
   Readings for October 3 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hebrews 1:14, Hebrews 2:18
-layout: single-section
 weight: 3
 ---
 

@@ -3,7 +3,6 @@ title: "October 28 | Read Morning and Evening Online"
 linkTitle: "October 28"
 description: >
   Readings for October 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 15:19, Song of Solomon 5:11
-layout: single-section
 weight: 28
 ---
 

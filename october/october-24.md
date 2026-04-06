@@ -3,7 +3,6 @@ title: "October 24 | Read Morning and Evening Online"
 linkTitle: "October 24"
 description: >
   Readings for October 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 104:16, John 13:5
-layout: single-section
 weight: 24
 ---
 

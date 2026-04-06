@@ -3,7 +3,6 @@ title: "October 20 | Read Morning and Evening Online"
 linkTitle: "October 20"
 description: >
   Readings for October 20 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 4:15, Isaiah 43:6
-layout: single-section
 weight: 20
 ---
 

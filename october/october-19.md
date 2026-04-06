@@ -3,7 +3,6 @@ title: "October 19 | Read Morning and Evening Online"
 linkTitle: "October 19"
 description: >
   Readings for October 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 3:1, Job 35:10
-layout: single-section
 weight: 19
 ---
 
