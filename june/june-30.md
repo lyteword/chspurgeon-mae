@@ -3,7 +3,6 @@ title: "June 30 | Read Morning and Evening Online"
 linkTitle: "June 30"
 description: >
   Readings for June 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 17:22, Jeremiah 32:17
-layout: single-section
 weight: 30
 ---
 

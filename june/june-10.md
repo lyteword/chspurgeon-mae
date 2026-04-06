@@ -3,7 +3,6 @@ title: "June 10 | Read Morning and Evening Online"
 linkTitle: "June 10"
 description: >
   Readings for June 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 14:8, John 5:39
-layout: single-section
 weight: 10
 ---
 

@@ -3,7 +3,6 @@ title: "June 29 | Read Morning and Evening Online"
 linkTitle: "June 29"
 description: >
   Readings for June 29 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Thessalonians 4:14, 2 Chronicles 32:31
-layout: single-section
 weight: 29
 ---
 

@@ -3,7 +3,6 @@ title: "June 17 | Read Morning and Evening Online"
 linkTitle: "June 17"
 description: >
   Readings for June 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 12:1, Numbers 21:17
-layout: single-section
 weight: 17
 ---
 

@@ -3,7 +3,6 @@ title: "June 9 | Read Morning and Evening Online"
 linkTitle: "June 9"
 description: >
   Readings for June 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 126:3, John 5:39
-layout: single-section
 weight: 9
 ---
 

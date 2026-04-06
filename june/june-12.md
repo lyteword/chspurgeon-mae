@@ -3,7 +3,6 @@ title: "June 12 | Read Morning and Evening Online"
 linkTitle: "June 12"
 description: >
   Readings for June 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Daniel 5:27, 2 Timothy 1:9
-layout: single-section
 weight: 12
 ---
 

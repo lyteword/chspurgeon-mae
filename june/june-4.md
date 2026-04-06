@@ -3,7 +3,6 @@ title: "June 4 | Read Morning and Evening Online"
 linkTitle: "June 4"
 description: >
   Readings for June 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Titus 3:4, 1 Timothy 3:16
-layout: single-section
 weight: 4
 ---
 

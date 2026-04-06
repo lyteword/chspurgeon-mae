@@ -3,7 +3,6 @@ title: "June 8 | Read Morning and Evening Online"
 linkTitle: "June 8"
 description: >
   Readings for June 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Chronicles 5:22, Numbers 11:23
-layout: single-section
 weight: 8
 ---
 

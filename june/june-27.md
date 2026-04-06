@@ -3,7 +3,6 @@ title: "June 27 | Read Morning and Evening Online"
 linkTitle: "June 27"
 description: >
   Readings for June 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Exodus 8:28, 1 Corinthians 7:20
-layout: single-section
 weight: 27
 ---
 

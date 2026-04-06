@@ -3,7 +3,6 @@ title: "June 26 | Read Morning and Evening Online"
 linkTitle: "June 26"
 description: >
   Readings for June 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 14:10, 2 Peter 1:4
-layout: single-section
 weight: 26
 ---
 

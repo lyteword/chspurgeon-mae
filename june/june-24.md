@@ -3,7 +3,6 @@ title: "June 24 | Read Morning and Evening Online"
 linkTitle: "June 24"
 description: >
   Readings for June 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Luke 11:27, 28, Daniel 3:16, 18
-layout: single-section
 weight: 24
 ---
 

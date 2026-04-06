@@ -3,7 +3,6 @@ title: "June 25 | Read Morning and Evening Online"
 linkTitle: "June 25"
 description: >
   Readings for June 25 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 40:9, Genesis 8:9
-layout: single-section
 weight: 25
 ---
 

@@ -3,7 +3,6 @@ title: "June 16 | Read Morning and Evening Online"
 linkTitle: "June 16"
 description: >
   Readings for June 16 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 10:28, Psalm 27:1
-layout: single-section
 weight: 16
 ---
 

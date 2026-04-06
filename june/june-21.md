@@ -3,7 +3,6 @@ title: "June 21 | Read Morning and Evening Online"
 linkTitle: "June 21"
 description: >
   Readings for June 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 45:2, 2 Timothy 2:19
-layout: single-section
 weight: 21
 ---
 

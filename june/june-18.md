@@ -3,7 +3,6 @@ title: "June 18 | Read Morning and Evening Online"
 linkTitle: "June 18"
 description: >
   Readings for June 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 54:5, Song of Solomon 5:1
-layout: single-section
 weight: 18
 ---
 

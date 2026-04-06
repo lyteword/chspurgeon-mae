@@ -3,7 +3,6 @@ title: "June 7 | Read Morning and Evening Online"
 linkTitle: "June 7"
 description: >
   Readings for June 7 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 97:10, Revelation 3:19
-layout: single-section
 weight: 7
 ---
 
