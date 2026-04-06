@@ -3,7 +3,6 @@ title: "December 15 | Read Morning and Evening Online"
 linkTitle: "December 15"
 description: >
   Readings for December 15 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ruth 1:14, Isaiah 54:11
-layout: single-section
 weight: 15
 ---
 

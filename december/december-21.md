@@ -3,7 +3,6 @@ title: "December 21 | Read Morning and Evening Online"
 linkTitle: "December 21"
 description: >
   Readings for December 21 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Samuel 23:5, Ezekiel 16:10
-layout: single-section
 weight: 21
 ---
 

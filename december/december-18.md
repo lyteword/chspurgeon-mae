@@ -3,7 +3,6 @@ title: "December 18 | Read Morning and Evening Online"
 linkTitle: "December 18"
 description: >
   Readings for December 18 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Joel 2:13, Proverbs 27:23
-layout: single-section
 weight: 18
 ---
 

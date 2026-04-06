@@ -3,7 +3,6 @@ title: "December 30 | Read Morning and Evening Online"
 linkTitle: "December 30"
 description: >
   Readings for December 30 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ecclesiastes 7:8, 2 Samuel 2:26
-layout: single-section
 weight: 30
 ---
 

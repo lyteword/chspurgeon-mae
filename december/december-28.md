@@ -3,7 +3,6 @@ title: "December 28 | Read Morning and Evening Online"
 linkTitle: "December 28"
 description: >
   Readings for December 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Galatians 2:20, Matthew 10:34
-layout: single-section
 weight: 28
 ---
 

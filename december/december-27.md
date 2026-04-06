@@ -3,7 +3,6 @@ title: "December 27 | Read Morning and Evening Online"
 linkTitle: "December 27"
 description: >
   Readings for December 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Job 8:11, Isaiah 58:11
-layout: single-section
 weight: 27
 ---
 

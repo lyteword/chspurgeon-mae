@@ -3,7 +3,6 @@ title: "December 11 | Read Morning and Evening Online"
 linkTitle: "December 11"
 description: >
   Readings for December 11 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Thessalonians 5:24, Colossians 3:24
-layout: single-section
 weight: 11
 ---
 
