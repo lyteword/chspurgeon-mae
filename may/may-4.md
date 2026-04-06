@@ -3,7 +3,6 @@ title: "May 4 | Read Morning and Evening Online"
 linkTitle: "May 4"
 description: >
   Readings for May 4 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Jeremiah 16:20, 1 Peter 1:23
-layout: single-section
 weight: 4
 ---
 

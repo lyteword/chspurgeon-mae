@@ -3,7 +3,6 @@ title: "May 27 | Read Morning and Evening Online"
 linkTitle: "May 27"
 description: >
   Readings for May 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Samuel 9:13, 2 Samuel 9:8
-layout: single-section
 weight: 27
 ---
 

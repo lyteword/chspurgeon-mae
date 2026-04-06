@@ -3,7 +3,6 @@ title: "May 10 | Read Morning and Evening Online"
 linkTitle: "May 10"
 description: >
   Readings for May 10 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Corinthians 15:20, John 1:14
-layout: single-section
 weight: 10
 ---
 

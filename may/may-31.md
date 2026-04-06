@@ -3,7 +3,6 @@ title: "May 31 | Read Morning and Evening Online"
 linkTitle: "May 31"
 description: >
   Readings for May 31 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 2 Samuel 15:23, Psalm 103:3
-layout: single-section
 weight: 31
 ---
 

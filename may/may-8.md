@@ -3,7 +3,6 @@ title: "May 8 | Read Morning and Evening Online"
 linkTitle: "May 8"
 description: >
   Readings for May 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 5:13, Job 22:21
-layout: single-section
 weight: 8
 ---
 

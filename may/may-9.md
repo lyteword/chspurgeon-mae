@@ -3,7 +3,6 @@ title: "May 9 | Read Morning and Evening Online"
 linkTitle: "May 9"
 description: >
   Readings for May 9 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ephesians 1:3, Song of Solomon 7:11,12
-layout: single-section
 weight: 9
 ---
 

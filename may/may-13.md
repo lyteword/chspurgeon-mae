@@ -3,7 +3,6 @@ title: "May 13 | Read Morning and Evening Online"
 linkTitle: "May 13"
 description: >
   Readings for May 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 30:5, Psalm 119:57
-layout: single-section
 weight: 13
 ---
 

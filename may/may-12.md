@@ -3,7 +3,6 @@ title: "May 12 | Read Morning and Evening Online"
 linkTitle: "May 12"
 description: >
   Readings for May 12 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 14:21, Genesis 46:3,4
-layout: single-section
 weight: 12
 ---
 
