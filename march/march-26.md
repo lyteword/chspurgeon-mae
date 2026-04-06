@@ -3,7 +3,6 @@ title: "March 26 | Read Morning and Evening Online"
 linkTitle: "March 26"
 description: >
   Readings for March 26 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: John 18:8, Mark 8:38
-layout: single-section
 weight: 26
 ---
 

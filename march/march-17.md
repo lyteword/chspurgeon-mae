@@ -3,7 +3,6 @@ title: "March 17 | Read Morning and Evening Online"
 linkTitle: "March 17"
 description: >
   Readings for March 17 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Galatians 2:10, Matthew 5:9
-layout: single-section
 weight: 17
 ---
 

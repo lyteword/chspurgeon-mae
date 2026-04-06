@@ -3,7 +3,6 @@ title: "March 19 | Read Morning and Evening Online"
 linkTitle: "March 19"
 description: >
   Readings for March 19 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Romans 4:20, Ruth 2:14
-layout: single-section
 weight: 19
 ---
 

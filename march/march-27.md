@@ -3,7 +3,6 @@ title: "March 27 | Read Morning and Evening Online"
 linkTitle: "March 27"
 description: >
   Readings for March 27 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Matthew 26:56, Matthew 15:27
-layout: single-section
 weight: 27
 ---
 

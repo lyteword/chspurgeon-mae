@@ -3,7 +3,6 @@ title: "March 8 | Read Morning and Evening Online"
 linkTitle: "March 8"
 description: >
   Readings for March 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Acts 14:22, Genesis 35:18
-layout: single-section
 weight: 8
 ---
 

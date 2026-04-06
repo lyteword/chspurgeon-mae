@@ -3,7 +3,6 @@ title: "March 31 | Read Morning and Evening Online"
 linkTitle: "March 31"
 description: >
   Readings for March 31 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Isaiah 53:5, 2 Samuel 21:10
-layout: single-section
 weight: 31
 ---
 

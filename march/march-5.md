@@ -3,7 +3,6 @@ title: "March 5 | Read Morning and Evening Online"
 linkTitle: "March 5"
 description: >
   Readings for March 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: 1 Thessalonians 5:6, Psalm 35:3
-layout: single-section
 weight: 5
 ---
 
