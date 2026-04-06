@@ -3,7 +3,6 @@ title: "September 8 | Read Morning and Evening Online"
 linkTitle: "September 8"
 description: >
   Readings for September 8 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Hosea 14:8, Ephesians 1:19, 20
-layout: single-section
 weight: 8
 ---
 

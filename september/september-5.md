@@ -3,7 +3,6 @@ title: "September 5 | Read Morning and Evening Online"
 linkTitle: "September 5"
 description: >
   Readings for September 5 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 120:5, Job 38:16
-layout: single-section
 weight: 5
 ---
 

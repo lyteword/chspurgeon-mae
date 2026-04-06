@@ -3,7 +3,6 @@ title: "September 13 | Read Morning and Evening Online"
 linkTitle: "September 13"
 description: >
   Readings for September 13 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 84:6, Luke 15:2
-layout: single-section
 weight: 13
 ---
 

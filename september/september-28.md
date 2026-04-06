@@ -3,7 +3,6 @@ title: "September 28 | Read Morning and Evening Online"
 linkTitle: "September 28"
 description: >
   Readings for September 28 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 33:13, 1 Kings 18:43
-layout: single-section
 weight: 28
 ---
 

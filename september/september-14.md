@@ -3,7 +3,6 @@ title: "September 14 | Read Morning and Evening Online"
 linkTitle: "September 14"
 description: >
   Readings for September 14 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Mark 4:36, Psalm 32:5
-layout: single-section
 weight: 14
 ---
 

@@ -3,7 +3,6 @@ title: "September 1 | Read Morning and Evening Online"
 linkTitle: "September 1"
 description: >
   Readings for September 1 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Psalm 73:24, Psalm 62:8
-layout: single-section
 weight: 1
 ---
 

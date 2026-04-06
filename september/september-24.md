@@ -3,7 +3,6 @@ title: "September 24 | Read Morning and Evening Online"
 linkTitle: "September 24"
 description: >
   Readings for September 24 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Ezra 8:22, Song of Solomon 5:2
-layout: single-section
 weight: 24
 ---
 

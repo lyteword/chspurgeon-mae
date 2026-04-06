@@ -3,7 +3,6 @@ title: "September 2 | Read Morning and Evening Online"
 linkTitle: "September 2"
 description: >
   Readings for September 2 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Mark 1:30, John 4:48
-layout: single-section
 weight: 2
 ---
 

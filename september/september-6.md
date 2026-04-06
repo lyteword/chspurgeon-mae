@@ -3,7 +3,6 @@ title: "September 6 | Read Morning and Evening Online"
 linkTitle: "September 6"
 description: >
   Readings for September 6 from Charles Spurgeon’s Morning and Evening. Bible passages for this day: Philippians 2:15, Galatians 5:18
-layout: single-section
 weight: 6
 ---
 
